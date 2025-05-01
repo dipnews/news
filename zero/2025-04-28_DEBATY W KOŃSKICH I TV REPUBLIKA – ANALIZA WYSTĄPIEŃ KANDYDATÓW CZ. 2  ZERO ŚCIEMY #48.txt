@@ -32,11 +32,11 @@ A żeby do końca nazwać sprawę niczym Natalia de Barbaro w tajemniczym pokoju
 do takiego wirtualnego pokoju zabieramy i tam będziemy im radzić, konsultować ich i sugerować pewne rozwiązania.
 
 8
-00:00:59,363 --> 00:01:04,391
+00:00:59,363 --> 00:01:04,409
 Leże na Państwa oczach, bo normalnie wszystko to odbywa się w cztery oczy.
 
 9
-00:01:04,391 --> 00:01:13,657
+00:01:04,409 --> 00:01:13,657
 No ale po to jest ten program, żebyście mogli zajrzeć niczym kandydat Jakub Krzysztof Stanowski, a nawet Krzysztof Jakub Stanowski za zaplecze razem z nami.
 
 10
@@ -52,19 +52,19 @@ Z kodem 0 zgarnij 10% rabatu w SFD.
 Partnerem kanału jest xtb, aplikacja inwestycyjna, z którą zaangażujesz do pracy twoje pieniądze. Teraz otwierając konto z kodem zero otrzymasz kurs inwestowania od podstaw.
 
 13
-00:01:35,088 --> 00:01:43,559
+00:01:35,088 --> 00:01:43,576
 Ostatnio zakończyliśmy naszą podróż w półpokoju, tego pokoju chmielowego.
 
 14
-00:01:43,559 --> 00:01:48,571
+00:01:43,576 --> 00:01:48,588
 A nawet chmielnego.
 
 15
-00:01:48,571 --> 00:01:56,772
+00:01:48,588 --> 00:01:56,789
 podreptać na drugą stronę do tego biznesowego pokoju podlanego złocistym trunkiem, czyli do pana Sławomira Męcena.
 
 16
-00:01:56,772 --> 00:02:06,610
+00:01:56,789 --> 00:02:06,610
 Tak i dobrze powiem ci, że doszło do tej chwili przerwy, bo dzięki temu i nasi widzowie mogli sobie wszystko poukładać w głowach. Z komentarzy wynikało, że sporo tej wiedzy było.
 
 17
@@ -92,16 +92,16 @@ Więc jak mówię, dobrze się stało, że tak się stało. My też pewnie troch
 No właśnie, czy Sławomir Mencen cokolwiek wyciągał z naszych poprzednich filmów a propos tego, co poprawić powinien, bo mi się wydaje, że jednak chyba nie obejrzał zbyt dokładnie tych naszych rzeczy.
 
 23
-00:02:51,886 --> 00:02:57,539
-Mam wrażenie, że być może ktoś mu pochopnie zreferował, a może nie, natomiast...
+00:02:51,886 --> 00:03:00,965
+mam wrażenie, że być może ktoś mu pochopnie zreferował, a może nie natomiast, wolę myśleć o sytuacji w której wiemy co się stało
 
 24
-00:02:57,539 --> 00:03:06,719
-Wolę myśleć o sytuacji, w której wiemy, co się stało i w jakiej jesteśmy sytuacji. Wpadamy tam do niego do pokoju i co my mu mówimy na początek.
+00:03:00,965 --> 00:03:06,719
+jakie jesteśmy sytuacji, wpadamy tam do niego do pokoju i co my mu mówimy na początek.
 
 25
 00:03:06,719 --> 00:03:16,709
-Nie wiem jak ty ale, ciekaw jestem bo nie rozmawialiśmy o tym co myślisz o technice zdartej płyty czyli o sytuacji, że Sławomir Męcen ma największe szanse na wygranie z Rafałem
+Nie wiem jak ty ale ciekawe jestem bo nie rozmawialiśmy o tym co myślisz o technice zdartej płyty czyli o sytuacji, że Sławomir Męcen ma największe szanse na wygranie z Rafałem
 
 26
 00:03:16,709 --> 00:03:22,463
@@ -124,20 +124,20 @@ No więc wysyłaliśmy te sygnały w dwójnasób, bo przygotowując między inny
 No widzisz, myśmy tam już wtedy zasugerowali, że Adam Hoffman go podpuszcza, żeby powtarzał to niczym zdarta płyta.
 
 31
-00:03:59,453 --> 00:04:05,832
+00:03:59,453 --> 00:04:05,815
 Dzięki temu powstanie z tego wartość memiczna, a Krzysiek przejmie głosy.
 
 32
-00:04:05,832 --> 00:04:13,915
-Proszę państwa, w takich żartach w tym wypadku zawsze jest ziarno prawdy. I to naprawdę ma memiczny potencjał.
+00:04:05,815 --> 00:04:13,915
+Proszę Państwa, w takich żartach w tym wypadku zawsze jest ziarno prawdy. I to naprawdę ma memiczny potencjał.
 
 33
-00:04:13,915 --> 00:04:19,399
-i zaczyna być wplatane w sposób taki delikatnie...
+00:04:13,915 --> 00:04:19,416
+i zaczyna być wplatany w sposób taki delikatnie...
 
 34
-00:04:19,399 --> 00:04:25,947
-pozbawiony gracji w narrację zarówno Pana Męcena jak i jego akolitów.
+00:04:19,416 --> 00:04:25,947
+Pozbawiony gracji w narrację zarówno Pana Męcena jak i jego akolitów.
 
 35
 00:04:25,947 --> 00:04:31,685
@@ -152,11 +152,11 @@ Ja rozumiem, jakim stał za tym zamysł. To znaczy rozumiem kogoś, kto, być mo
 Wbijmy do głowy tym wszystkim ludziom, którzy będą nas słuchać, że to ja mam największe szanse. Niech na odruchu jadą i to powtarzają.
 
 38
-00:04:47,311 --> 00:04:52,458
+00:04:47,311 --> 00:04:52,441
 Mi brakło jednej rzeczy. Była bodajże taka scena z filmu Mascazorro.
 
 39
-00:04:52,458 --> 00:05:00,457
+00:04:52,441 --> 00:05:00,457
 gdzie Antonio Banderas i Antony Hopkins tam się przekomarzali. Mianowicie Banderas mówił do niego, że on jest lepszy w szermierce.
 
 40
@@ -168,11 +168,11 @@ A Hopkins, tak pamiętam, mieszając kawę mówił, nigdy nie będziesz. Na co d
 A Hopkins na to odpowiada, że pewnych rzeczy się tak łatwo nie nauczysz. Mówi na przykład czego? I on tak wyjmuje łyżeczkę, oblizuje, mówi na przykład w Dzieńku.
 
 42
-00:05:13,771 --> 00:05:18,918
+00:05:13,771 --> 00:05:18,901
 I mam wrażenie, że w tej technice zdartej płyty tutaj brakuje właśnie tego.
 
 43
-00:05:18,918 --> 00:05:27,845
+00:05:18,901 --> 00:05:27,845
 Wdzięku w tym wszystkim, że jeśli to jest... Już przyjmijmy, nawet Sławomir Mencen się tam z tego śmiał. Były momenty, gdzie on po prostu to wypowiadał i już...
 
 44
@@ -181,15 +181,15 @@ sam nie był w stanie wytrzymać, bo on doskonale zdawał sobie sprawę, jak to 
 
 45
 00:05:32,857 --> 00:05:41,952
-i w kącikach ust było widać szczególnie w jednym, że, że to jego już samego też trochę bawi trochę zawstydza i niech pan pamięta mam największe szanse na wygrane z panem w drugiej turze.
+i w kącikach ust było widać szczególnie w jednym, że, że to jego już samego też trochę bawi trochę zawstydza Niech pan pamięta mam największe szanse na wygrane z panem Jannem w drugiej turze.
 
 46
-00:05:41,952 --> 00:05:50,778
-Wiesz, są w polskiej polityce, nie wiem czy już o tym mogliśmy rozmawiać, są przykłady, a szczególnie jeden taki jaskrawy, gdzie można ludzi wytresować.
+00:05:41,952 --> 00:05:50,795
+Wiesz, są w polskiej polityce, nie wiem, czy już o tym mogliśmy rozmawiać, są przykłady, a szczególnie jeden taki jaskrawy, gdzie można ludzi wytresować.
 
 47
-00:05:50,778 --> 00:05:56,785
-gdzie Andrzej Leper stojąc na trybunie sejmowego wystarczy, że powiedział Balcerowicz, a cała sala
+00:05:50,795 --> 00:05:56,785
+gdzie Andrzej Leper stojąc na trybunie sejmowego wystarczy, że powiedział Balcerowicz, a cała sala...
 
 48
 00:05:56,785 --> 00:06:05,290
@@ -200,28 +200,28 @@ Krzyszałek chór kościelny musi odejść, a on na to mówił, jak pięknie was
 Ale no właśnie, to czemu to się tu nie... To nie jest dobra wskazówka. No właśnie mi się wydaje, że ktoś tu mimo wszystko Sławomirowi Mencenowi...
 
 50
-00:06:13,458 --> 00:06:22,621
+00:06:13,458 --> 00:06:22,604
 Kiepsko podpowiedział. Ja rozumiem, że to jest technika, a nóż się przyklei i zostanie, ale jednak w dzisiejszych czasach, bo wtedy kiedy robił to Andrzej Leper,
 
 51
-00:06:22,621 --> 00:06:30,451
+00:06:22,604 --> 00:06:30,451
 Nie było tak rozwiniętego internetu, nie było kultury memicznej. I dzisiaj to jest oręż taki obosieczny.
 
 52
-00:06:30,451 --> 00:06:39,344
+00:06:30,451 --> 00:06:39,513
 Bo z jednej strony może ktoś faktycznie zapamięta to zdanie, większość zapamiętała, ale nie wiem czy w takim kontekście, jaki chciałby Sławomir Mencen, że po prostu to się stanie...
 
 53
-00:06:39,344 --> 00:06:46,246
-memem, który lata i to memem, który używa zarówno poplecznicy Konfederacji, jak i Ci przeciwko.
+00:06:39,513 --> 00:06:46,246
+Memem, który lata i to memem, który używa zarówno w poplecznicy Konfederacji, jak i Ci przeciwko.
 
 54
-00:06:46,246 --> 00:06:56,185
-Jesteśmy chwilę po wydarzeniach z Watykanu, gdzie Szymon Hołownia robił zdjęcia, a nie wiem czy to było selfie, w końcu postawa była jednoznaczna.
+00:06:46,246 --> 00:06:56,202
+Jesteśmy chwilę po wydarzeniach z Watykanu, prawda? Gdzie Szymon Hołownia robił zdjęcia, a nie wiem czy to było selfie, w końcu postawa była.
 
 55
-00:06:56,185 --> 00:07:03,560
-Wystarczy zastanowić się, ile memów z tego powstało, w jakich okolicznościach te memy powstawały i ile odmian.
+00:06:56,202 --> 00:07:03,560
+Wystarczy zastanowić się ile memów z tego powstało, w jakich okolicznościach te memy powstawały i ile odmian.
 
 56
 00:07:03,560 --> 00:07:12,233
@@ -232,7 +232,7 @@ Takiego strzału w stopę przed kampanią ja już dawno nie widziałem, ale jak 
 Chcę tylko powiedzieć, jaką ogromną siłą jest memologia stosowana.
 
 58
-00:07:18,562 --> 00:07:26,122
+00:07:18,562 --> 00:07:26,138
 Tak i panie Sławomirze, jeśli faktycznie oglądacie. Jesteśmy już troszkę dalej, mamy XXI wiek.
 
 59
@@ -252,24 +252,24 @@ I ja bym odradzał. Podpisuje się obydwiema, rękami i nogami też się podpisu
 Cały czas jestem zdania, że jest dobrze opanowany, że nerwy na wodzy trzyma. Przede wszystkim, że nawet gdy dochodzi do sporów z jego głównym przeciwnikiem.
 
 63
-00:08:00,023 --> 00:08:07,060
-I mam takie porównanie, Dariusz Michalczewski, kojarzysz człowieka? Wielokrotny mistrz świata, utytułowany bokser Tiger, prawda?
+00:08:00,023 --> 00:08:07,027
+I mam takie porównanie. Dariusz Michalczewski, kojarzysz człowieka? Wielokrotny mistrz świata, utytułowany bokser Tiger, prawda?
 
 64
-00:08:07,060 --> 00:08:15,599
-On zrobił wielką karierę w Niemczech i w krajach niemieckojęzycznych na walkach z takim gościem, który się nazywał Rokicziani.
+00:08:07,027 --> 00:08:15,599
+On zrobił wielką karierę w Niemczech i w krajach niemieckojęzycznych na walkach z takim gościem, który się nazywał Rokiciani.
 
 65
 00:08:15,599 --> 00:08:23,024
-Nie wiem jak to się stało i dlaczego nie ryzykował dużo dużo bardziej znanych rywali, ale stworzył się taki kult Tiger kontra
+nie wiem jak to się stało i dlaczego nie ryzykował dużo dużo bardziej znanych rywali ale stworzył się taki kult Tiger kontra
 
 66
-00:08:23,024 --> 00:08:30,871
+00:08:23,024 --> 00:08:30,905
 Wiecznie są tłuki, wszyscy się tym ekscytowali. Ja mam wrażenie, że mamy tutaj dokładną kalkę tej sytuacji. Który jest który?
 
 67
-00:08:30,871 --> 00:08:36,052
-Czy Szymon jest Tajgerem, czy Rokicjanim, czy Sławomir jest Tajgerem, czy Rokicjanim.
+00:08:30,905 --> 00:08:36,052
+Czy Szymon jest Tajgerem czy Rokicjanim, czy Sławomir jest Tajgerem czy Rokicjanim?
 
 68
 00:08:36,052 --> 00:08:45,755
@@ -288,28 +288,28 @@ byłbym bardziej za Sławomirem Męcenem, ponieważ on w tym wszystkim starał s
 to widz z tego będzie guzik miał. I kiedy Szymon go ostro atakował, ten starał się wstrzelić tak, żeby nie tylko Szymon był zrozumiany, na czym mu pewnie nie zależało.
 
 72
-00:09:09,447 --> 00:09:16,130
-ale żeby jego riposta była słyszalna. Możemy nawet to pokazać. Nie zmieniłem zdania, nigdy nie miałem takiego zdania, że...
+00:09:09,447 --> 00:09:16,113
+ale żeby jego riposta była słyszalna. Możemy nawet to pokazać. Nie zmieniłem zdania, nigdy nie miałem takiego zdania.
 
 73
-00:09:16,130 --> 00:09:23,386
-lepiej Panie marszałku wiem jaką ja miałem zdanie niż pani nie miałem takiego zdania, że to ja nie kłamie mówię panu jakie są w tym momencie przerywa.
+00:09:16,113 --> 00:09:23,386
+lepiej Panie marszałku wiem jaką ja miałem zdanie niż pani nie miałem takiego zdania, że to ja nie kłamie mówię panu jakie są pani w tym momencie przerywa.
 
 74
-00:09:23,386 --> 00:09:31,857
-Ja się zgadzam, że faktycznie czegoś się nie spodziewałem, bo uważam, że to było takie pierwsze sprawdzenie Sławomira Męcena w takim boju właśnie z innymi kandydatami.
+00:09:23,386 --> 00:09:31,874
+Ja się zgadzam, że faktycznie czegoś nie spodziewałem, bo uważam, że to było takie pierwsze sprawdzenie Sławomira Męcena w takim boju właśnie z innymi kandydatami.
 
 75
-00:09:31,857 --> 00:09:37,932
+00:09:31,874 --> 00:09:37,932
 I byłam naprawdę ciekaw, jak on sobie z tym poradzi. I okazuje się, że tak jak mówisz, faktycznie był w stanie utrzymać te nerwy na wodze.
 
 76
-00:09:37,932 --> 00:09:47,686
+00:09:37,932 --> 00:09:47,669
 Jak już dopowiadał coś do Szymona Hołowni, to wtedy, kiedy wiedział, że to się wstrzeli, bo to, co widzieliśmy od strony Szymona Hołowni, do czego zaraz przejdziemy, to już trochę inna rzecz.
 
 77
-00:09:47,686 --> 00:09:56,427
-Na plus uważam to, że generalnie w tych debatach był całkiem nieźle, znaczy w tej jednej debacie, w której brał udział, był nieźle przygotowany. Dalej ma ten przydech.
+00:09:47,669 --> 00:09:56,427
+Na plus uważam to, że generalnie w tych debatach był całkiem nieźle, znaczy w tej jednej debacie, w której brał dział, był nieźle przygotowany. Dalej ma ten przydech.
 
 78
 00:09:56,427 --> 00:10:02,148
@@ -325,19 +325,19 @@ Zdjęcie, że był krawat, była poszedka biała, wyglądało to elegancko. Uwa�
 
 81
 00:10:17,082 --> 00:10:23,427
-Trochę przeszkadza, znowu ja czepiam się może, ale uważam, że akcje z zdjęciami to nie tylko do Sławomira Męcena, tylko...
+Trochę przeszkadza, znowu ja czepiam się może, ale uważam, że akcja z zdjęciami to nie tylko do Sławomira Męcena, tylko...
 
 82
-00:10:23,427 --> 00:10:30,667
+00:10:23,427 --> 00:10:30,683
 te akcje z gadżetami, to ze zdjęciem, to już dla mnie jest trochę archaiczne.
 
 83
-00:10:30,667 --> 00:10:35,678
-Tuzka i proszę tego przed Polakami, nie ukrywać pamiętasz
+00:10:30,683 --> 00:10:35,695
+jest policjantem Tuska i proszę tego przed Polakami dłużej nie ukrywać pamiętasz nazwali
 
 84
-00:10:35,678 --> 00:10:45,550
-to słowem dziwowisko, te wszystkie debaty i właśnie dziwowiskiem czynią je tego typu performansy. Tym bardziej, że widać, że ludzie od Szymona i on sam
+00:10:35,695 --> 00:10:45,550
+to słowem dziwowisko, te wszystkie debaty i właśnie dziwowiskiem czynią je tego typu performancy. Tym bardziej, że widać, że ludzie od Szymona i on sam
 
 85
 00:10:45,550 --> 00:10:52,587
@@ -364,12 +364,12 @@ to ostatni ruch należał do Szymona. A w takim pojedynku wygrywa ten,
 który ma sensowny ostatni ruch. I to był trochę ten szachmat tej mikrosytuacji.
 
 91
-00:11:30,033 --> 00:11:36,682
+00:11:30,033 --> 00:11:36,698
 nie działa w tym sensie, że ludzie już się tego nauczyli. Nawet nasi politycy, którzy generalnie siedzą, wiadomo, trochę są...
 
 92
-00:11:36,682 --> 00:11:43,027
-w poprzednich czasach i w poprzedniej epoce, jeśli chodzi o triki i chwy terytoryczne, ale tego już się nauczyli.
+00:11:36,698 --> 00:11:43,027
+w poprzednich czasach i w poprzedniej epoce, jeśli chodzi o triki i chwyty retoryczne, ale tego już się nauczyli.
 
 93
 00:11:43,027 --> 00:11:52,831
@@ -380,12 +380,12 @@ I pomimo, że to zdjęcie było dobrze przygotowane z nalepkami, żeby się dobr
 Zauważyłeś, że jak Szymonowi było klarowane, że się ma wstydzić i tak dalej, tam pojawiła się ręka. Tylko ta ręka to jest takie ułożenie, które ja nazywam czerpak.
 
 95
-00:12:03,665 --> 00:12:09,149
+00:12:03,665 --> 00:12:09,166
 Tak, proszę państwa o co mi chodzi, Sławomir.
 
 96
-00:12:09,149 --> 00:12:14,431
-Ja nie kłamie, mówię panu jakie są, pan mi w tym momencie przerywa. Natomiast jeżeli nie chcemy...
+00:12:09,166 --> 00:12:14,431
+A nie kłamie, to jest... Ja nie kłamie, mówię panu jakie jest, a pan mi w tym momencie przerywa. Natomiast jeżeli nie chcemy...
 
 97
 00:12:14,431 --> 00:12:24,202
@@ -400,12 +400,12 @@ Ręka ułożona w ten sposób, która usztywnia się tutaj w całej długości. 
 staje się jakimś takim dziwnym dłutem. Wiesz, że mi się często zdarzało? Możesz zrobić ten czerpak?
 
 100
-00:12:37,634 --> 00:12:43,793
+00:12:37,634 --> 00:12:43,777
 Mi się często zdarzało, on nawet jest schowany tutaj. Zdarzało mi się podchodzić do klientów.
 
 101
-00:12:43,793 --> 00:12:53,378
-pracowaliśmy, na które z nocą mówili, dobra, luz, tu luz, niech w tej ręce pojawi się luz, tak, niech to będzie serdeczne wskazanie, konkretne wskazanie, ale nie czerpak.
+00:12:43,777 --> 00:12:53,378
+pracowałaś, na której znacy mówi dobra luz, tu luz, niech w tej ręce pojawi się luz, niech to będzie serdeczne wskazanie, konkretne wskazanie, ale nie czerpa.
 
 102
 00:12:53,378 --> 00:12:59,048
@@ -425,7 +425,7 @@ Nie wygląda po prostu to dobrze. Nie dodaje to powagi, a jednak trochę obniża
 
 106
 00:13:19,417 --> 00:13:25,812
-Żeby uświadomić sobie ważkość Kciuka, jego istotną rolę,
+Żeby uświadomić sobie ważkość Kciuka, jego istotną rolę
 
 107
 00:13:25,812 --> 00:13:30,824
@@ -440,28 +440,28 @@ prostą czynność domową, jak np. rozpakowanie takiego batona, spróbować dok
 Tak, kciuk jest super. My jesteśmy dlatego tu, gdzie jesteśmy, mamy przeciwstawne kciuki między innymi. Tak jest. I to pokazuje...
 
 110
-00:13:45,117 --> 00:13:53,808
+00:13:45,117 --> 00:13:53,791
 że podświadomość człowieka kciuk bardzo mocno poważnie traktuje. Chowanie go w czerpak nie jest dobre. Czyli jeszcze raz, gdybyście państwo chcieli wskazywać.
 
 111
-00:13:53,808 --> 00:14:03,798
+00:13:53,791 --> 00:14:03,781
 To nie palcem, nie grożącym, tylko delikatnie rozwartymi palcami dłoni, tak żeby to był sympatyczny gest, a jeśli jeszcze uda się odsłonić spód.
 
 112
-00:14:03,798 --> 00:14:08,945
-To już jest w ogóle rewelacyjne. No dobrze, to jeszcze jedna rzecz a propos Sławomira Mencena, żebym nie zapomniał.
+00:14:03,781 --> 00:14:08,962
+To już jest w ogóle rewelacyjne. No dobrze, to jeszcze jedna rzecz a propos Sławomira Męcena, żebym nie zapomniał.
 
 113
-00:14:08,945 --> 00:14:17,753
+00:14:08,962 --> 00:14:17,753
 Pytanie do Trzaskowskiego bez Trzaskowskiego. To znaczy, co o tym myślisz, że jednak Sławomir Męcem, wiedząc, że nie ma Rafała Trzaskowskiego, mówi, to ja mam pytanie do Rafała Trzaskowskiego.
 
 114
-00:14:17,753 --> 00:14:25,027
+00:14:17,753 --> 00:14:25,010
 Ja mam pytanie do Rafała Trzaskowskiego. Czy dalej uważa pan, że CPK powinno być pod Berlinem, a nie w Polsce? Czy dalej chce pan?
 
 115
-00:14:25,027 --> 00:14:34,882
-ponieważ planeta płonie produkować prąd z niemieckich wiatraków zamiast polskich elektrowni. Czy dalej pan uważa, że przyjęcie nielegalnych migrantów jest dla Polski polisa bezpieczeństwa?
+00:14:25,010 --> 00:14:34,882
+ponieważ planeta płonie produkować prąd z niemieckich wiatraków zamiast polskich elektrowni. Czy dalej pan uważa, że przyjęcie nielegalnych migrantów to jest dla Polski polisa bezpieczeństwa?
 
 116
 00:14:34,882 --> 00:14:40,923
@@ -484,15 +484,15 @@ trochę przesunęło znowu tę siłę na stronę Sławomira Męcena i pokazało,
 No właśnie, można tego Rafała Trzaskowskiego trochę trącić, nawet jak go tam nie ma.
 
 121
-00:15:06,927 --> 00:15:15,415
+00:15:06,927 --> 00:15:15,449
 Rozumiem, jesteś na plus. U nas na tak jesteś i to jest dla niego plus. Ja też tak uważam, natomiast in minus tutaj postrzegam sprawę zawstydzania.
 
 122
-00:15:15,415 --> 00:15:22,250
+00:15:15,449 --> 00:15:22,233
 Wiesz, bo rozmawialiśmy, ja jestem wielkim antyfanem wszelkich technik, u podstaw których leży zawstydzanie innych ludzi.
 
 123
-00:15:22,250 --> 00:15:31,885
+00:15:22,233 --> 00:15:31,885
 i kiedy Sławomir Męcen mówi do Szymona Hołowni czy panu nie wstyd, że zawiódł pan wyborców czy panu nie wstyd.
 
 124
@@ -504,11 +504,11 @@ i kiedy Sławomir Męcen mówi do Szymona Hołowni czy panu nie wstyd, że zawi�
 Ale powieszę, mówi to, Szymon zresztą to wypunktował, jak wyuczoną formułkę, czyli nie ma w tym emocji.
 
 126
-00:15:47,815 --> 00:15:56,641
+00:15:47,815 --> 00:15:56,523
 A po drugie, wstyd jest najniższą emocją. Jak mówiliśmy już wcześniej, wstydem zarządzano społecznościami, gdy były jeszcze mały.
 
 127
-00:15:56,641 --> 00:16:04,792
+00:15:56,523 --> 00:16:04,792
 I to jest taki tandem naprawdę niskich lotów.
 
 128
@@ -521,54 +521,54 @@ to w ludziach gruntuje się też jakiś taki zły wzór, który nie powinien do 
 
 130
 00:16:15,220 --> 00:16:24,350
-A szczególnie jeśli mówimy o formacie prezydenckim. I do tego jeszcze jest Szymon z drugiej strony, który jest po prostu na to tak przygotowany, że gdy ten wyskakuje, czy panu nie wstyd, to tamten robi...
+a szczególnie jeśli mówimy o formacie prezydenckim. I do tego jeszcze jest Szymon z drugiej strony, który jest po prostu na to tak przygotowany, że gdy ten wyskakuje, czy panu nie wstyd, to tamten robi...
 
 131
 00:16:24,350 --> 00:16:34,340
-I tyle jest warta ta technika, ale gdzieś w głowach zostaje. Ja myślę, że to znowu się sprowadza trochę do tego, że ewidentnie Pan Sławomir się przygotowuje, to znaczy widać, że on...
+I tyle jest warta ta technika, ale gdzieś w głowach zostaje. Ja myślę, że to znowu się sprowadza trochę do tego, że ewidentnie Pan Sławomir się przygotowuje. To znaczy widać, że on...
 
 132
-00:16:34,340 --> 00:16:40,263
+00:16:34,340 --> 00:16:40,246
 pracuje nad tym, co on ma. I bardzo dobrze. I super, że ten. Natomiast to, czego mi właśnie brakuje,
 
 133
-00:16:40,263 --> 00:16:46,388
+00:16:40,246 --> 00:16:46,388
 do tego, że to jest trochę takie siermiężnie przygotowane, że po prostu jestem wyuczony pewnych formułek.
 
 134
-00:16:46,388 --> 00:16:52,092
+00:16:46,388 --> 00:16:52,075
 I kiedyś Leszek Muncher powiedział taką fajną rzecz, że przy płycie Komedy ktoś się go zapytał.
 
 135
-00:16:52,092 --> 00:17:00,665
-Co to jest za frajda, jak grasz czyjąś całą płytę i tak naprawdę tam są rzeczy, które już zostały napisane.
+00:16:52,075 --> 00:17:00,665
+Co to jest za frajda, jak grasz czyjąś całą płytę i tak naprawdę tam są rzeczy, które już zostały napisane. I Mosger powiedział taką rzecz, że...
 
 136
-00:17:00,665 --> 00:17:09,457
+00:17:00,665 --> 00:17:09,440
 Cała idea tej improwizacji związanej właśnie z graniem kogoś jest, że jedna nuta jest tu, a druga jest tu, a wszystko co pomiędzy jest moją własną inwencją twórczą.
 
 137
-00:17:09,457 --> 00:17:19,210
+00:17:09,440 --> 00:17:19,193
 I tego mi tutaj brakuje, że ja rozumiem, że masz te nuty rozłożone tu i tu, ale chcę zobaczyć, że to wszystko co pomiędzy jest twoją inwencją twórczą, że to jest takie...
 
 138
 00:17:19,295 --> 00:17:25,301
-No trochę z wdziękiem. No więc siedzimy w tym pokoju i apelujemy do naszego w tym wypadku klienta męcena.
+No trochę z wdziękiem, no więc siedzimy w tym pokoju i apelujemy do naszego w tym wypadku klienta męcena.
 
 139
-00:17:25,301 --> 00:17:31,900
-Super przygotowany jesteś człowiek, już super opanowany i ładnie tą gardę trzymasz w sensie konsekwentnie.
+00:17:25,301 --> 00:17:33,217
+Super przygotowany jesteś człowiek, już super opanowany i ładnie tą gardę trzymasz w sensie konsekwentnie, ale zrób tak.
 
 140
-00:17:31,900 --> 00:17:39,663
-Ale zrób tak, żeby cała Polska nie widziała, że tę gardę trzymasz. Trzymaj ją, ale nie pokazuj tego tak intensywnie.
+00:17:33,217 --> 00:17:39,697
+żeby cała Polska nie widziała, że tę gardę trzymasz. Trzymaj ją, ale nie pokazuj tego tak intensywnie.
 
 141
-00:17:39,663 --> 00:17:46,379
+00:17:39,697 --> 00:17:46,396
 autorytet od razu wzrasta, będziesz odbierany jako potężniejszy, a dwa, że ludzie cię będą bardziej lubić.
 
 142
-00:17:46,379 --> 00:17:55,137
+00:17:46,396 --> 00:17:55,137
 Myślę, że pan Sławomir nie ma problemu z lubieniem przez ludzi, ale patrząc po tych ostatnich wiecach, ale po prostu to trochę uczłowieczy i wiem za chwilę nam ktoś powie znowu.
 
 143
@@ -592,39 +592,39 @@ Ja odpowiem na to w ten sposób. Gdy zaczyna pylić, mam ochotę kichać, ale cz
 Mam po prostu sposoby, które pozwalają nie kichnąć w momencie, kiedy jestem w sytuacji, w której tego robić nie powinienem.
 
 148
-00:18:34,118 --> 00:18:40,919
-Zdradzę ten patent, bo to jest patent telewizyjny. Rozmawiasz, jesteś gościem w studiu, ktoś mówi, ty akurat nie mówisz, ale czujesz...
+00:18:34,118 --> 00:18:40,767
+Zdradzę ten patent, bo to jest patent telewizyjny. Rozmawiasz, jesteś gościem w studiu, ktoś mówi, ty akurat nie mówisz, ale czujesz ich.
 
 149
-00:18:40,919 --> 00:18:48,884
-że chcesz kichnąć. Co się robi w takiej sytuacji? Nie mam zielonego pojęcia. Czubkiem języka. Dotykasz bardzo mocno dociskając twardego dniebienia.
+00:18:40,767 --> 00:18:48,884
+Że chcesz kichnąć. Co się robi w takiej sytuacji? Nie mam zielonego pojęcia. Człupkiem języka. Dotykasz, bardzo mocno dociskając twardego podniebienia.
 
 150
 00:18:48,884 --> 00:18:57,102
 w sytuacji, w której czujesz, że nie chcesz kichnąć, a zaczyna ci się zbierać. Dobre, nie znałem tego, bardzo fajny patent. I czasami to się sprawdza na kongresach na przykład.
 
 151
-00:18:57,102 --> 00:19:06,485
+00:18:57,102 --> 00:19:06,518
 Siedzisz sobie na forum, wszyscy cię obserwują, ale nie ty mówisz i nagle ci się zbiera na to kichnięcie. No i wtedy trzeba docisnąć, rozprowadzisz to kichowe napięcie.
 
 152
-00:19:06,485 --> 00:19:11,868
+00:19:06,518 --> 00:19:11,648
 Dobre, bo to faktycznie szczególnie na scenie podczas jakiegoś wystąpienia, jak cię świeżbi w nosie.
 
 153
-00:19:11,868 --> 00:19:17,369
-Fatalne. Takie sążniste kichnięcie nie jest czymś, co wszyscy chcą słyszeć w mikrofonie.
+00:19:11,648 --> 00:19:17,369
+Takie sążniste kichnięcie nie jest czymś, co wszyscy chcą słyszeć w mikrofonie.
 
 154
 00:19:17,369 --> 00:19:22,516
 Ale to i tak jest pół biedy. Wiesz co jest najgorsze? Najgorsze jest jak na przykład rozmawiamy tak jak teraz.
 
 155
-00:19:22,516 --> 00:19:29,755
+00:19:22,516 --> 00:19:29,738
 i czujesz, że przez nie uwagę nie poszedłeś do toalety i za chwilę twój pęcherz eksploduje, a tutaj trzeba rozmawiać.
 
 156
-00:19:29,755 --> 00:19:35,662
+00:19:29,738 --> 00:19:35,662
 Jedyne ułatwienie jest to, że tu masz gościa, a tu obok ciebie jest jeszcze twoja partnerka w programie.
 
 157
@@ -648,15 +648,15 @@ Poszedłem szybko załatwić sprawę, uratowałem pęcherz i gdy wybiegłem, mia
 Mówię panowie, jakikolwiek kwiatek tutaj. Wziąłem w doniczce jakiś kwiat, wbiegłem tam z powrotem, mówię po prostu szukałem kwiata, którym chciałem uszanować ten sukces.
 
 162
-00:20:12,162 --> 00:20:21,494
+00:20:12,162 --> 00:20:21,477
 I to jest ten wdzięk, że czasem trzeba ograć między jedną nutką a drugą nutką, coś trzeba zrobić. Ale wdzięk oparty o brak rozumu, żeby się w przerwie reklamowej nie pójść za przeproszeniem.
 
 163
-00:20:21,494 --> 00:20:30,303
-Właśnie tego czasem brakuje, że właśnie tej elastyczności, że wiesz, jedno to się przygotować, a dwa, że musisz być elastyczny na takich wojnach.
+00:20:21,477 --> 00:20:30,286
+Tego czasem brakuje, że właśnie tej elastyczności, że wiesz, jedno to się przygotować, a dwa, że musisz być elastyczny na takich wojnach.
 
 164
-00:20:30,303 --> 00:20:38,453
+00:20:30,286 --> 00:20:38,453
 No to co, stawiamy kropkę przy panu Sławomirze? Ale dajmy mu podsumowujący feedback w dwóch, trzech punktach. No to tak.
 
 165
@@ -676,16 +676,16 @@ Ja zrezygnowałbym socjotechnik polegających na tym, że będę zawstydzał kon
 Nie jest to tak autentyczne, jak być powinno, a poza tym to jest niska wibracja.
 
 169
-00:21:01,741 --> 00:21:08,525
+00:21:01,741 --> 00:21:08,542
 trochę luzu, takiego uczłowieczania właśnie, żeby ludzie zobaczyli, że Pan się też jest w stanie tym bawić.
 
 170
-00:21:08,525 --> 00:21:18,515
-bo to chodzi o to, że my chcemy widzieć ludzi, którzy też odczuwają przyjemność z tego, że właśnie występują, że ta rola ma im sprawiać frajdę, żebyśmy nie widzieli, że oni cały czas są tacy walczący o to wszystko.
+00:21:08,542 --> 00:21:18,532
+bo to chodzi o to, że my chcemy widzieć ludzi, którzy też odczuwają przyjemność z tego, że właśnie występują, że ta rola ma im sprawiać fajne, żebyśmy nie widzieli, że oni cały czas są tacy walczący o to wszystko.
 
 171
-00:21:18,515 --> 00:21:27,593
-A na plus? Na plus na pewno ten spokój. Ja go niesłychanie cenię i tylko zalecałbym, żeby czerpać świadomie z siły tego spokoju.
+00:21:18,532 --> 00:21:27,593
+A na plus? Na plus na pewno ten spokój. Ja go niesłychanie cenię i tylko zalecałbym żeby czerpać świadomie z siły tego spokoju.
 
 172
 00:21:27,593 --> 00:21:37,583
@@ -701,62 +701,62 @@ To teraz, jak już był pan Sławomir, to może opuszczamy jego pokój i pójdź
 
 175
 00:21:56,888 --> 00:22:04,381
-Panie Szymonie, pod Bóg schodzimy. Coś nam się ciekawego wydarzyło z Szymonem przez ostatnie tygodnie czy miesiące.
+Panie Szymonie, puk puk, schodzimy. Coś nam się ciekawego wydarzyło z Szymonem przez ostatnie tygodnie czy miesiące.
 
 176
-00:22:04,381 --> 00:22:14,067
+00:22:04,381 --> 00:22:14,017
 Bo jeszcze w tym poprzednim naszym spotkaniu mówiłem, że czasem mi brakuje tego zadziora u Szymona, że on jest czasem taki za miły. No to teraz zdecydowanie...
 
 177
-00:22:14,067 --> 00:22:23,095
-Poszedł na drugą stronę, to wahadło się odchyliło i w kiedyś takim serialu How I Met Your Mother było takie... Jak poznałem Waszą
+00:22:14,017 --> 00:22:23,095
+poszedł na drugą stronę, to wahadło się odchyliło i w kiedyś takim serialu How I Met Your Mother było takie... Jak poznałem Waszą
 
 178
 00:22:23,095 --> 00:22:28,411
 Waszą matkę. Było takie stwierdzenie nad korekcji.
 
 179
-00:22:28,411 --> 00:22:38,283
+00:22:28,411 --> 00:22:38,266
 że robisz nadkorekcję, czasem to właśnie uważam, że tutaj wystąpiła trochę nadkorekcja. To znaczy z miłego Szymona, który jest taki trochę właśnie...
 
 180
-00:22:38,283 --> 00:22:45,252
-za bardzo ugłaskany. Teraz się przesunęliśmy na Szymona, który gryzie po prostu po kostkach, aż brzęczy.
+00:22:38,266 --> 00:22:45,252
+Za bardzo ugłaskany. Teraz się przesunęliśmy na Szymona, który gryzie po prostu po kostkach, aż brzęczy.
 
 181
-00:22:45,252 --> 00:22:53,453
-Przypomniał mi się pewien wykład z historii architektury, bardzo dobry zresztą, gdzie pewien człowiek ze swadą opowiadał o tym, jak to jest.
+00:22:45,252 --> 00:22:53,690
+Przypomniał mi się pewien wykład z historii architektury, bardzo dobry zresztą, gdzie pewien człowiek ze swadą opowiadał o tym, jak to jest,
 
 182
-00:22:53,453 --> 00:22:58,651
+00:22:53,690 --> 00:22:58,702
 że są okresy w życiu, gdzie powstają budynki brzydkie i budynki piękne.
 
 183
-00:22:58,651 --> 00:23:08,405
+00:22:58,702 --> 00:23:08,405
 To jest tak, że przychodzi czas, gdzie ludzie ufają architektom. Powierzają im projekty, oddają im je w pełni, powstają piękne budynki, zachwycają się nimi.
 
 184
-00:23:08,405 --> 00:23:15,728
+00:23:08,405 --> 00:23:15,712
 często finansują te budynki, często obserwują ich prace, to wydaje im się, że uczą się od tych architektów.
 
 185
-00:23:15,728 --> 00:23:25,178
-W związku z tym zaczynają się od nich oddalać i zaczynają podejmować architektoniczne decyzje na własne ryzyko, oni sami już wiedzą.
+00:23:15,712 --> 00:23:25,178
+W związku z tym zaczynają się od nich oddalać i zaczynają podejmować architektoniczne decyzje na własne ryzyko. Oni sami już wiedzą.
 
 186
 00:23:25,178 --> 00:23:31,186
 I im bardziej się oddalają, tym te budynki stają się coraz brzydcze. I gdy już jest naprawdę extremum osiągnięte,
 
 187
-00:23:31,186 --> 00:23:36,400
+00:23:31,186 --> 00:23:36,383
 jednak przekonują się i wracają do tych architektów, wahadło cofa się w drugą stronę, czyli tu są architekci.
 
 188
-00:23:36,400 --> 00:23:42,408
-tu jest pewność siebie, która oddala ludzi od architektów, tu jest skrajnie źle i nagle wahadło zaczyna wracać.
+00:23:36,383 --> 00:23:42,425
+Tu jest pewność siebie, która oddala ludzi od architektów. Tu jest skrajnie źle i nagle wahadło zaczyna wracać.
 
 189
-00:23:42,408 --> 00:23:49,073
+00:23:42,425 --> 00:23:49,073
 Metafora, porównanie, ale chodzi mi o to, że mam wrażenie, że jest jakiś komponent w Szymonie.
 
 190
@@ -776,12 +776,12 @@ Nawet ostatnio chwaliłem, że u Szymona nie ma tych palców grożących, że on
 Wahadło mu się rzeczywiście w drugą stronę przechyliło. To jest ciekawe, bo ja mam wrażenie, że Szymon zrobił
 
 194
-00:24:24,005 --> 00:24:29,017
+00:24:24,005 --> 00:24:29,067
 Największy wynik w tamtych wyborach na tym właśnie, że wtedy był mniej więcej w punkt.
 
 195
-00:24:29,017 --> 00:24:35,294
-bo trochę wziął z tego telewizyjnego sznytu, trochę już do takiego aspirującego polityka.
+00:24:29,067 --> 00:24:35,311
+Bo trochę wziął z tego telewizyjnego sznytu, trochę już do takiego aspirującego polityka.
 
 196
 00:24:35,834 --> 00:24:40,863
@@ -796,35 +796,35 @@ To było świeże jeszcze. To było świeże, ale też wielu spraw nie znał, wi
 Uwaga, subiektywna opinia Tomasza Kamela obserwującego kolegę z branży, który poszedł do polityki. Brakuje w tym wszystkim odrobiny pokory.
 
 199
-00:24:57,518 --> 00:25:02,615
-Ale pokory, nie takiej, że będę teraz jak forna lub niutu, czapkę przede wszystkim.
+00:24:57,518 --> 00:25:02,581
+Ale pokory, nie takiej, że będę teraz jak Forna lub Newtów czapkę przede wszystkim.
 
 200
-00:25:02,615 --> 00:25:10,411
+00:25:02,581 --> 00:25:10,394
 tylko pokory, że nie jestem Alfą i Omega, lub jak mówią niektórzy Alfą i Romeo, i nie zjadłem wszystkich rozumów.
 
 201
-00:25:10,411 --> 00:25:17,060
-Tak, a Szymon ostatnio tak się zachowuje, jakby już miał rozwiązanie na wszystko. Nie wiem, czy on tak myśli, ale zachowuje się tak, jakby właśnie tak myślał.
+00:25:10,394 --> 00:25:17,060
+Tak, a Szymon ostatnio tak się zachowuje, jakby już miał rozwiązanie na wszystko. Nie wiem czy on tak myśli, ale zachowuje się tak, jakby właśnie tak myślał.
 
 202
 00:25:17,060 --> 00:25:24,687
 Uczciwie powiem, że według mnie to jest dobrze zaplanowana strategia. To znaczy, że gdzieś słuchałem jakiegoś wywiadu Szymona Hołowni.
 
 203
-00:25:24,687 --> 00:25:27,438
+00:25:24,687 --> 00:25:27,556
 w którym on powiedział, że on wie o tym, że nie ma.
 
 204
-00:25:27,910 --> 00:25:36,517
+00:25:27,893 --> 00:25:36,483
 Tyle pieniędzy, żeby zrobić taką kampanię, która zaleje Polskę. Więc to, co mu zostaje, to emocje, które będzie wywoływał.
 
 205
-00:25:36,517 --> 00:25:43,098
+00:25:36,483 --> 00:25:43,081
 i słusznie, że o tym mówisz, jeśli tak myśli, to się w stu procentach zgadzam, tylko ja zawsze powtarzam, że
 
 206
-00:25:43,098 --> 00:25:50,675
+00:25:43,081 --> 00:25:50,675
 W komunikacji, szczególnie publicznej, jest bardzo cienka granica między pewnością siebie, a taką niebezpieczną nonszalancją.
 
 207
@@ -856,20 +856,20 @@ Ale retorycznie jest dalej niezły. Wspaniały bym powiedział. Znowu mówimy o 
 Rewelacja. Tylko intonacyjnie delikatnie przykręciłbym to pokrętło z nonchalancją.
 
 214
-00:26:39,140 --> 00:26:48,303
+00:26:39,140 --> 00:26:48,370
 Panie Sławku, ja nie będę państwu teraz tłumaczył, na czym świat polega, bo ja to wiem, a wy nie musicie. Ja wam zawsze będę mógł mówić, jak ten świat jest zbudowany, a wy nie musicie się nad tym zastanawiać.
 
 215
-00:26:48,303 --> 00:26:55,475
+00:26:48,370 --> 00:26:55,492
 Ja nie chcę tego czegoś. Ja bym chciał nawet takie słowa. Ja proszę Państwa wiem, na czym świat polega.
 
 216
-00:26:55,475 --> 00:27:01,398
+00:26:55,492 --> 00:27:00,976
 I nawet jeśli wy nie wiecie, to ja wam chętnie to wytłumaczę.
 
 217
-00:27:01,398 --> 00:27:06,460
-Broda lekko do góry, nonchalancia również w tonie i to wszystko się źle składa.
+00:27:00,976 --> 00:27:06,460
+Broda lekko do góry, szalancja również w tonie i to wszystko się źle składa.
 
 218
 00:27:06,460 --> 00:27:11,523
@@ -880,11 +880,11 @@ Może to jest kwestia, że Szymon Hołownia nie jest zbyt dobrym aktorem?
 Bo mam wrażenie, że znowu ta kampania, to co teraz się wydarza, jest bardzo dobrze przygotowane przez jego sztab. W sensie uważam, że to nie są...
 
 220
-00:27:19,842 --> 00:27:28,448
+00:27:19,842 --> 00:27:28,465
 Tu nie ma za dużo pola na improwizację. Myślę, że gdzieś tam ktoś go bardzo dobrze steruje. Tak samo była ta akcja z odwołaniem się do żony na debacie.
 
 221
-00:27:28,448 --> 00:27:35,502
+00:27:28,465 --> 00:27:35,502
 że moja żona właśnie w tym momencie lata, broni Polski, kocham cię uleńko. I teraz pytanie, czy to było dobre?
 
 222
@@ -893,11 +893,11 @@ Jak sądzisz? Teraz z dwóch stron. Ja mam z tym problem, bo po pierwsze pani Ur
 
 223
 00:27:44,311 --> 00:27:54,065
-Po drugie, to znowu jest uderzanie w najniższe emocje pod tytułem Moja żona i to jest mój osobisty problem z tym, że ona tam lata.
+Po drugie to znowu jest uderzanie w najniższe emocje pod tytułem Moja żona i to jest mój osobisty problem z tym, że ona tam lata.
 
 224
 00:27:54,065 --> 00:28:03,937
-Ale ja też wiem, że część ludzi siedząca przed telewizorami popatrzy na to i powie Boże jak on ją kocha, jakie to jest fajne, że on to do niej mówi, że ona do nich wróci do tych dzieci.
+Ale ja też wiem, że część ludzi siedząca przed telewizorami popatrzy na to i powie Boże, jak on ją kocha. Jakie to jest fajne, że on to do niej mówi, że ona do nich wróci do tych dzieci.
 
 225
 00:28:03,937 --> 00:28:08,948
@@ -908,20 +908,20 @@ A było tak Drodzy państwo dla mnie kwestia bezpieczeństwa to jest kwestia bar
 moja żona właśnie teraz, kiedy mówię te słowa jest w powietrzu, broniąc granic Rzeczpospolitej Polskiej, kocham cię uleńko i mam nadzieję, że dzisiaj bezpiecznie.
 
 227
-00:28:17,167 --> 00:28:25,148
+00:28:17,167 --> 00:28:25,165
 wrócisz do domu do naszych dziewczynek i do mnie, zgadzam się z tobą w 100% mało tego ja uważam osobiście, że to jest dobre.
 
 228
-00:28:25,148 --> 00:28:35,138
+00:28:25,165 --> 00:28:35,155
 Że to było dobre, tylko gdybym mógł na miejscu Szymona zrobić to lepiej, znowu subiektywna opinia, to bym to zrobił ciut inaczej z nadzieją, że będzie lepiej.
 
 229
-00:28:35,138 --> 00:28:37,687
+00:28:35,155 --> 00:28:37,703
 Nie zwróciłbym się bezpośrednio do żony.
 
 230
-00:28:37,973 --> 00:28:46,597
-tylko bym ludziom o mojej żonie opowiedział. Proszę Państwa, moja żona jest w powietrzu właśnie teraz, gdy mówię te słowa i strzeżę granic Polski.
+00:28:37,990 --> 00:28:46,597
+tylko bym ludziom o mojej żonie opowiedział. Proszę państwa, moja żona jest w powietrzu właśnie teraz, gdy mówię te słowa i strzeżę granic Polski.
 
 231
 00:28:46,597 --> 00:28:51,878
@@ -937,7 +937,7 @@ którzy coś z nimi zrobili, partycypują w ich sukcesie albo w ogóle o nich op
 
 234
 00:29:11,302 --> 00:29:20,347
-którego nie ma w studiu. Ja mówię, proszę państwa, zrobiliśmy z Łukaszem Kacą bardzo piękny program. Pozdrawiam Cię Łukaszu. Lalalala. Nie lubię tego. Wiem o co chodzi, tak.
+którego nie ma w studiu. Ja mówię, proszę państwa, zrobiliśmy z Łukaszem Kacą bardzo piękny program. Pozdrawiam Cię Łukaszu, lalalala. Nie lubię tego. Wiem o co chodzi, tak.
 
 235
 00:29:20,347 --> 00:29:25,747
@@ -948,20 +948,20 @@ Ja wolę, żeby to wszystko było adresowane do ludzi. Zrobiliśmy z Łukaszem K
 Łukasz jest świetnym facetem, z którym dobrze się pracuje i mam nadzieję, że to się nigdy nie skończy, bo mamy jeszcze dużo w planach.
 
 237
-00:29:32,193 --> 00:29:41,896
-Pozdrawiam Cię Łukaszu. No niby miłe, to nie jest nic złego, ale znowu uważam, że szczególnie w takiej sytuacji jak tam z Szymonem, gdyby on opowiadał o żonie, a nie nagle...
+00:29:32,193 --> 00:29:42,183
+Pozdrawiam Cię Łukaszu. No niby miłe, to nie jest nic złego, ale znowu uważam, że szczególnie w takiej sytuacji jak tam z Szymonem, gdyby on opowiadał o żonie, a nie nagle we
 
 238
-00:29:41,896 --> 00:29:51,211
-wekslował do niej, to byłoby jeszcze mocniejszy. Ja tu myślałem jeszcze o tym, bo ja wiem czym chciał zagrać Szymon Hołownia. A wiem, że on chciał powiedzieć, że to bezpieczeństwo, które w tym momencie jest zagrożone.
+00:29:42,183 --> 00:29:51,228
+To byłoby jeszcze mocniejszy. Ja tu myślałem jeszcze o tym, bo ja wiem czym chciał zagrać Szymon Hołownia. A wiem, że on chciał powiedzieć, że to bezpieczeństwo, które w tym momencie jest zagrożone.
 
 239
-00:29:51,211 --> 00:29:59,632
+00:29:51,228 --> 00:29:59,632
 że dotyczy go osobiście, tylko że jeśli już tak, to z perspektywy wywierania wpływu możesz powiedzieć coś w stylu, moja żona w tym momencie...
 
 240
 00:29:59,632 --> 00:30:09,065
-i jest na służbie lata i wiem, że nie może oglądać tej debaty. Wiem, że dzisiaj nasze dzieci są właśnie same, bo moja żona, bo ich mama.
+i jest na służbie lata. I wiem, że nie może oglądać tej debaty. Wiem, że dzisiaj nasze dzieci są właśnie same, bo moja żona, bo ich mama.
 
 241
 00:30:09,065 --> 00:30:18,397
@@ -996,47 +996,47 @@ i nagle któraś strona pokazuje, że jest krok przed tobą, bo to nie tylko jes
 że Sławomir Męce na niego wychodzi z tym zdjęciem i to nie tylko, że on dopowiada i to zamyka, ale że on wyciąga coś i mówi...
 
 249
-00:31:10,642 --> 00:31:17,105
-przewidziałem to. Torba na gadżety od kontrkandydatów. To widać, że on to dobrze wymyślił.
+00:31:10,642 --> 00:31:17,088
+przewidziałem to, torba na gadżety od kontrkandydatów, to widać, że on to dobrze wymyślił.
 
 250
-00:31:17,105 --> 00:31:26,588
-I ta torba jest jak taka wielka czarna dziura, która zasysa wszystkie absurdy, które chcieliby mu zaserwować kontrkandydaci. Tak, więc to jest piękne odbicie.
+00:31:17,088 --> 00:31:26,605
+I ta torba jest jak taka wielka czarna dziura, która zasysa wszystkie absurdy, które chcieliby mu zaserwować kontrkandydaci.
 
 251
-00:31:26,588 --> 00:31:34,267
-Tak, to było dobre. Ale myślę, że też istotną sprawą tych debat była ta mocna wymiana.
+00:31:26,605 --> 00:31:34,267
+Tak, to było dobre. Ale myślę, że też istotną sprawą tych debat była ta mocna wymiana
 
 252
 00:31:34,267 --> 00:31:40,949
 zdań między Szymonem Hołownią a Sławomirem Mencenem kiedy sobie wchodzili w zdanie Myślę, że możemy teraz to zobaczyć taki jest.
 
 253
-00:31:40,949 --> 00:31:48,830
-nie, zmieniłem zdanie nigdy nie miałem takiego zdania, że tak miał pan w stu ustawach mężczyzny lepiej panie marszałku wiem jaką ja miałem zdanie niż pani nie miałem takiego zdania, że to jest.
+00:31:40,949 --> 00:31:48,931
+nie, zmieniłem zdanie nigdy nie miałem takiego zdania, że tak miał pan z ustawach mężczyzny lepiej panie marszałku wiem jaką ja miałem zdanie niż pani nie miałem takiego zdania, że tak to jest
 
 254
-00:31:48,830 --> 00:31:58,718
-Mówię panu, jak jest, a pan mi w tym momencie przerywa. Natomiast jeżeli nie chcemy, żeby w Polsce były gwałtów, to nie możemy zgadzać się na masowe migracje z Azji czy z Afryki. Pan tych ludzi...
+00:31:48,931 --> 00:31:58,718
+Mówię panu jak jest, a pan mi w tym momencie przerywa. Natomiast jeżeli nie chcemy, żeby w Polsce były gwałtów, to nie możemy zgadzać się na masowe migracje z Azji czy z Afryki. Pan tych ludzi...
 
 255
-00:31:58,718 --> 00:32:07,207
+00:31:58,718 --> 00:32:07,173
 że nielegalnie przekraczają polską granicę, wpuszcza do polskiego sejmu. Ci ludzie nielegalnie przekroczyli przed polską granicę, łamali prawo.
 
 256
-00:32:07,207 --> 00:32:12,961
-A pan Tyczudzi wpuszcza do Polskiego Sejmu. Dlaczego pan mi drugiej instancji nie zrobił?
+00:32:07,173 --> 00:32:12,961
+Gwałtów nie należy.
 
 257
 00:32:12,961 --> 00:32:21,044
-do Polski nielegalnych migrantów z Azji czy z Afryki. To jest prosta droga do zwiększenia liczby gwałtów w Polsce, tak jak w każdym kraju Europy.
+do Polski nielegalnych migrantów z Azji czy z Afryki. To jest prosta droga do zwiększenia liczby gwałtów w Polsce, tak jak w każdym kraju europejskim.
 
 258
 00:32:21,044 --> 00:32:28,267
 Pan jest za to odpowiedzialny. Pan popiera sprowadzenie do Polski nielegalnych migranów.
 
 259
-00:32:28,267 --> 00:32:37,868
+00:32:28,267 --> 00:32:37,902
 No właśnie, tutaj to pan kłamie, kłamstwo, kłamstwo, kłamca, kłamca, pan kłamie, pan jest kłamcą i to przerywanie, no nie wiem jak ty to...
 
 260
@@ -1048,7 +1048,7 @@ postrzegasz. Ja tutaj mam jednak krytyczne zdanie co do tego co Szymon tutaj usk
 Kiedy tego typu dictum jak słowo kłamca, kłamstwo pojawia się, gdy druga strona według ciebie opowiada nieprawdę.
 
 262
-00:32:55,958 --> 00:33:03,637
+00:32:55,958 --> 00:33:03,620
 To samo w sobie w ekstremalnych przypadkach jest bardzo dobre, dlatego że kontrujesz de facto wszystko, co zostanie powiedziane. Natomiast...
 
 263
@@ -1060,19 +1060,19 @@ Problem polega na tym, kiedy nie wytrzymujesz ciśnienia i zaczynasz mówić za 
 swoimi potoczystymi znajami. I robi się wtedy z tego chaos i awantura przekupek na targu.
 
 265
-00:33:18,908 --> 00:33:24,747
+00:33:18,908 --> 00:33:24,764
 Absolutnie. Sytuacja, w której odpowiadasz trochę jak Graf Pomidora i odpowiadasz pan kłamie.
 
 266
-00:33:24,747 --> 00:33:31,818
-Ale robisz to ze spokojem i co jakiś czas to wrzucisz. Na zasadzie pan kłamie. To jest nieprawda, co pan mówi. OK.
+00:33:24,764 --> 00:33:31,818
+Ale robisz to ze spokojem i co jakiś czas to wrzucisz. Na zasadzie pan kłamie, to jest nieprawda co pan mówi, okej.
 
 267
 00:33:31,818 --> 00:33:41,555
 Ale w momencie, kiedy krzyczysz i zaczynasz przekrzykiwać słowa i nie dajesz się wypowiedzieć tam temu drugiemu kontrkandydatowi, tylko po prostu drzesz się. Kłamca, kłamca, pan kłamie, pan kłamie.
 
 268
-00:33:41,555 --> 00:33:44,137
+00:33:41,555 --> 00:33:44,153
 To, dlaczego mnie pan nie pozwał, to pan kłamie.
 
 269
@@ -1097,7 +1097,7 @@ Szczególnie, że ja uważam, że Szymon Hołownia jest naprawdę na tyle dobrym
 
 274
 00:34:23,793 --> 00:34:30,053
-Zagrywek, której mam wrażenie, że po prostu są nie jego. To znaczy, jeśli umiesz to powiedzieć...
+zagrywek, której mam wrażenie, że po prostu są nie jego. To znaczy, jeśli umiesz to powiedzieć...
 
 275
 00:34:30,053 --> 00:34:35,217
@@ -1108,11 +1108,11 @@ I masz w sobie to coś, co pozwala być takim ciętym, takim czasem agresywnym.
 Ostatnio rozmawialiśmy o panu Marku Jakubiaku, który ma w sobie taką dynamikę, że on po prostu potrafi grzmieć, ale to jest jego.
 
 277
-00:34:44,565 --> 00:34:50,523
+00:34:44,565 --> 00:34:50,455
 Natomiast ja cały czas odnoszę wrażenie, że jak widzę Szymona Hołownia takiego wkurzonego, który po prostu krzyczy kłamca.
 
 278
-00:34:50,523 --> 00:35:00,209
+00:34:50,455 --> 00:35:00,209
 Ja tego nie kupuję, ja mam wrażenie, że to jest nie jego, że on właśnie przesadził i on momentami stara się wysterować od takich niefajnych emocji, że ja wam teraz pokażę.
 
 279
@@ -1129,19 +1129,19 @@ A jeśli w tym czasie powtórzyłby to słowo kłamstwa czy kłamstwo powtórę,
 
 282
 00:35:24,458 --> 00:35:29,791
-A tak, to mamy historię z przekupkami na targu, jak Szymon zakrzykuje innych ludzi.
+A tak to mamy historię z przekupkami na targu, jak Szymon zakrzykuje innych ludzi.
 
 283
-00:35:29,791 --> 00:35:38,431
+00:35:29,791 --> 00:35:38,414
 to jego wiarygodność topnieje jak śnieg na wiosnę. I to bym mu powiedział w tym pokoju i powiedziałbym mu stary skądś z tym.
 
 284
-00:35:38,431 --> 00:35:48,421
+00:35:38,414 --> 00:35:48,404
 Ja rozumiem, Panie Szymonie, wiem, że jest akcja taka, że Pan chce docisnąć emocjonalnie, ale Pan ma w sobie pokłady różnych emocji i ten wachlarz jest, widać go.
 
 285
-00:35:48,421 --> 00:35:55,964
-Więc nie musimy iść tylko w emocje wstydu, lęku, obrażania się.
+00:35:48,404 --> 00:35:55,964
+Więc nie musimy iść tylko w emocje, wstydu, lęku, obrażania się.
 
 286
 00:35:55,964 --> 00:36:02,950
@@ -1192,12 +1192,12 @@ bo ludzie natychmiast to wyłapują. Arogancję, zadufanie w sobie, widz bardzo 
 Plus zap przygotowanie się do gadżetów to na pewno.
 
 298
-00:37:23,562 --> 00:37:30,802
+00:37:23,562 --> 00:37:30,903
 Plus za odwoływanie się do tych emocji rodzicielskich i emocji związanych z żoną.
 
 299
-00:37:30,802 --> 00:37:37,957
-można było ładniej wiadomo trochę się czepiamy ale uważam, że to jest w porządku akcja, plus za całą retorykę.
+00:37:30,903 --> 00:37:37,957
+Można było ładniej, wiadomo trochę się czepiamy, ale uważam, że to jest w porządku akcja. Plus za całą retorykę.
 
 300
 00:37:37,957 --> 00:37:47,812
@@ -1212,12 +1212,12 @@ Co to Antony Hopkins powiedział Antoniowi Banderasowi? Było więcej. Tak jest.
 To co zostawiamy pana Szymona niech sobie siedzi w swoim pokoju i pójdźmy do kandydata bezpartyjnego.
 
 303
-00:38:01,683 --> 00:38:08,332
+00:38:01,683 --> 00:38:08,315
 jednocześnie z poparciem Prawa i Sprawiedliwości, czyli do Karola Nawrockiego. – Jesteśmy u Karola Nawrockiego, tak jest.
 
 304
-00:38:08,332 --> 00:38:16,651
-No to co, może najpierw popatrzymy na to, czy komentowaliśmy już zachowanie pana Karola Nawrockiego i nie ukrywajmy, nie byliśmy wtedy zbyt...
+00:38:08,315 --> 00:38:16,651
+Może najpierw popatrzymy na to, czy komentowaliśmy już zachowanie pana Karola Nawrockiego i nie ukrywajmy, nie byliśmy wtedy zbyt...
 
 305
 00:38:16,651 --> 00:38:26,641
@@ -1261,15 +1261,15 @@ grozić palcem i że te gesty ma czasem takie odklejone od tego, co mówi, to to
 
 315
 00:39:34,934 --> 00:39:43,102
-całą ręką i całą dłonią. I to było super. Chyba tylko w niektórych momentach, gdzie trochę się denerwował ten palec czasem.
+całą ręką i całą dłonią. I to było super. Chyba tylko w niektórych momentach, gdzie trochę się zdenerwował ten palec czasem.
 
 316
-00:39:43,102 --> 00:39:48,198
+00:39:43,102 --> 00:39:48,333
 czasem tam jeszcze wyskakuje, ale myślę, że to są jego ustawienia fabryczne, że wraca co jakiś czas do tych ustawień fabrycznych.
 
 317
-00:39:48,198 --> 00:39:55,083
-Ale fajnie, jest ta praca. Fajnie, bo faktycznie zaczęło opowiadać trochę taką większą swadą.
+00:39:48,333 --> 00:39:55,083
+Ale fajnie, jest ta praca. Fajnie, bo faktycznie zaczął opowiadać trochę taką większą swadą.
 
 318
 00:39:55,083 --> 00:40:00,095
@@ -1304,12 +1304,12 @@ Bo Karol Nawrocki i to jest taki błąd trochę szkolny w debacie.
 że jednak mówi do Rafała Trzaskowskiego i znowu zaczynamy te wychylania.
 
 326
-00:40:52,964 --> 00:40:58,027
+00:40:52,964 --> 00:40:58,043
 Gdzie jednak, tam jest kamera, tam mówimy, pomimo że Pan Rafał jest tu, to mówimy tam do niego.
 
 327
-00:40:58,027 --> 00:41:05,806
-Tego nie było. Cały czas jest gdzieś tamta praca i to wychylanie się tak mówi. Jeśli stojąc chcemy wysłać sygnał, że ogarniamy przestrzeń.
+00:40:58,043 --> 00:41:05,806
+Tego nie było. Cały czas jest gdzieś tamta praca i to wychylanie się, tak mówisz. Jeśli stojąc chcemy wysłać sygnał, że ogarniamy przestrzeń.
 
 328
 00:41:05,806 --> 00:41:15,256
@@ -1324,11 +1324,11 @@ To tutaj, proszę państwa, i to dla wszystkich kandydatów, stary mój patent z
 tak zwane kubki uziemiające. Jak ktoś chce stać spokojnie i nie tańcować jak w tańcu z gwiazdami,
 
 331
-00:41:26,360 --> 00:41:31,017
+00:41:26,360 --> 00:41:31,000
 na przestrzeni jednego metra kwadratowego, to trzeba korzystać z takich kupków.
 
 332
-00:41:31,152 --> 00:41:39,134
+00:41:31,169 --> 00:41:39,151
 Czy to jest moment, żeby zaproponować zaprezentować ja? Tak, absolutnie. Panie Karolu, teraz... Uwaga, dla wszystkich tańczących kandydatów sprawdzony patent. Proszę państwa.
 
 333
@@ -1336,7 +1336,7 @@ Czy to jest moment, żeby zaproponować zaprezentować ja? Tak, absolutnie. Pani
 Kandydat lub pretendent do kogoś, kto chciałby mieć miano, dobrego mówcy publicznego, bierze te dwa kupki.
 
 334
-00:41:48,770 --> 00:41:58,169
+00:41:48,753 --> 00:41:58,169
 Uwaga, stawia je sobie na czubkach butów, tak jak ja to zrobiłem teraz i po prostu stoi i przemawia. Nie wiadomo co to za psychologiczny trik.
 
 335
@@ -1345,7 +1345,7 @@ Ale zabawa polega na tym, że jak człowiek wie, że ma te dwa kubki, nagle zacz
 
 336
 00:42:03,198 --> 00:42:13,070
-Od pasa w dół być dziwnie spokojny i nie ma tego dziwnego falowania, z którym mamy czasem do czynienia podczas prezentowanych debat.
+Od pasa w dół, być dziwnie spokojny i nie ma tego dziwnego falowania, z którym mamy czasem do czynienia. O właśnie, bo jak falujesz to od razu widać, że spada.
 
 337
 00:42:13,070 --> 00:42:20,883
@@ -1356,11 +1356,11 @@ I to jest dobre dla wszystkich, bardzo wszystkim, którzy chcą występować pub
 Przedziwne rzeczy się w głowie zaczynają wtedy dziać. Człowiek natychmiast jest taki uspokojony i zbalansowany.
 
 339
-00:42:25,895 --> 00:42:35,362
-Ale tak właśnie łapiesz ten, ten rdzeń się jakoś tak wytwarza. Szczególnie, że naprawdę dla tych, myślę, że obaj mamy doświadczenie w pracy z ludźmi, którzy gdzieś tam występują.
+00:42:25,895 --> 00:42:35,328
+Ale tak właśnie łapiesz, ten rdzeń się jakoś tak wytwarza. Myślę, że obaj mamy doświadczenie w pracy z ludźmi, którzy gdzieś tam występują.
 
 340
-00:42:35,362 --> 00:42:42,112
+00:42:35,328 --> 00:42:42,112
 Niektórzy naprawdę tańczą czacze w trakcie i to im wpada wręcz kompulsywnie.
 
 341
@@ -1388,20 +1388,20 @@ z ostatnich już wielu tygodni, to ta praca tutaj naprawdę najbardziej jest wid
 Co ciekawe uważam, że też w kontekście takich chwytów retorycznych,
 
 347
-00:43:30,273 --> 00:43:36,584
+00:43:30,273 --> 00:43:36,601
 Na pewno w momencie, kiedy wiadomo, że tam z Rafałem Trzaskowskim się wtedy, kiedy Rafał był, podgryzali trochę.
 
 348
-00:43:36,584 --> 00:43:44,026
-I widać, że nawet te jego riposty zaczynają być takie okrąglejsze. One już nie są takie siermiężne, że faktycznie coś tam się pojawia.
+00:43:36,601 --> 00:43:44,043
+I widać, że nawet te jego riposty zaczynają być takie okrąglejsze, one już nie są takie siermiężne, że faktycznie coś tam się pojawia.
 
 349
-00:43:44,026 --> 00:43:53,543
-Plus na pewno w tym pytaniu, które było do Karola Nawrockiego, a propos tego, jak on ma załatwić tą wojnę, że oni siądam tam.
+00:43:44,043 --> 00:43:53,543
+Plus na pewno w tym pytaniu, które było do Karola Nawrockiego, a propos tego, jak on ma załatwić tą wojnę, żeby on wsiądą.
 
 350
 00:43:53,543 --> 00:43:59,990
-Pan tam nie ma żadnych relacji, prawda? Jak pan tam powie? Tak, natomiast uważam, że to jest ciekawe, że on to skończył wypowiedzią taką...
+Pan tam nie ma żadnych relacji, prawda? Jak pan tam powiecie coś? Tak, natomiast uważam, że to jest ciekawe, że on to skończył wypowiedzią taką...
 
 351
 00:43:59,990 --> 00:44:07,921
@@ -1412,12 +1412,12 @@ to jak pan to widzi, że ja... Jak ja miałem to zrobić? Przecież to wy macie,
 przyszłe negocjacje w odniesieniu i te, które się toczą w odniesieniu do Ukrainy, oczywiście powinny mieć komponent Polski, ale to pan może zapytać Donalda.
 
 353
-00:44:17,455 --> 00:44:23,210
+00:44:17,455 --> 00:44:23,227
 Dlaczego nie siedzi przy stole negocjacyjnym? Przecież to nie jest pytanie do mnie, jako kto mam siedzieć.
 
 354
-00:44:23,210 --> 00:44:29,791
-I to w kontekście czystego chwytu retorycznego jako dokończenie wypowiedzi
+00:44:23,227 --> 00:44:29,791
+Prezes IPN na urlopie? I to w kontekście czystego chwytu retorycznego jako dokończenie wypowiedzi,
 
 355
 00:44:29,791 --> 00:44:37,553
@@ -1428,20 +1428,20 @@ Uważam za dobry strzał, dobry strzał po to, żeby trochę wybić jednak ten o
 Jednocześnie właśnie to bycie prezesem IPN-u na urlopie.
 
 357
-00:44:43,460 --> 00:44:49,450
+00:44:43,460 --> 00:44:49,417
 Choć tu już było w tym mniej wdzięku na pytanie Anny Senyszyn o to, czy w tej pielgrzymce...
 
 358
-00:44:49,450 --> 00:44:58,057
-w Watykanu, to on też porozmawia o problemach. O pedofilii i o wszystkich różnych problemach, o których w kontekście mówi się często i obficie.
+00:44:49,417 --> 00:44:58,057
+w Watykanu, to on też porozmawia o problemach. O pedofilii, o wszystkich różnych problemach, o których w kontekście mówi się często i obficie.
 
 359
-00:44:58,057 --> 00:45:04,165
+00:44:58,057 --> 00:45:04,148
 Czy pana wizyta w Watykanie to będzie tylko pielgrzymka za państwowe pieniądze?
 
 360
-00:45:04,165 --> 00:45:12,535
-Czy też zaapeluje pan do papieża, aby do pionu doprowadził polskich biskupów i aby bez sądów?
+00:45:04,148 --> 00:45:12,535
+Czy też zaapeluje pan do papieża, aby do pionu doprowadził polskich biskupów i aby bez sądów...
 
 361
 00:45:12,535 --> 00:45:17,378
@@ -1464,52 +1464,52 @@ Jana Pawła II, który był nie tylko wytwornym intelektualistą i największym 
 ale był też zwierzchnikiem, głową kościoła katolickiego, więc będzie to wizyta.
 
 366
-00:45:49,947 --> 00:45:54,976
+00:45:49,947 --> 00:45:54,993
 w połączeniu i ducha i wizyty dyplomatycznej w samym Watykanie.
 
 367
-00:45:54,976 --> 00:46:01,692
+00:45:54,993 --> 00:46:01,675
 Nie było. Oczywiście to był klasyczny unik. On poszedł w drugą stronę, ale jednocześnie zrobił tak.
 
 368
-00:46:01,692 --> 00:46:09,674
+00:46:01,675 --> 00:46:09,674
 żeby to było nie od problemu, żeby uhonorować i podkreślić, że on będzie przy grobie papieża.
 
 369
 00:46:09,674 --> 00:46:14,686
-że jednocześnie porozmawia Georgią Meloni o tym, że pewne rzeczy się dzieją i to się
+że jednocześnie porozmawia Georgią Meloni o tym, że, pewne rzeczy się dzieją i to się
 
 370
 00:46:14,686 --> 00:46:24,052
 To się nie dzieje w kościele, bo ona też widzi, że niektóre rzeczy się dzieją w Unii Europejskiej, które są nie w porządku.
 
 371
-00:46:24,052 --> 00:46:31,747
+00:46:24,052 --> 00:46:31,865
 Przejazd jednak do tej Unii Europejskiej przez Watykan był ciekawym chwytem retorycznym.
 
 372
-00:46:31,747 --> 00:46:36,758
+00:46:31,865 --> 00:46:36,877
 do profesor Senyszyn, że to pani prywatne fobie.
 
 373
-00:46:36,758 --> 00:46:45,702
-o słynnych fobiach lewicy. O, to bardziej tak. Bezosobowo bardziej. Ja zawsze mówię ad personam. Tego typu ataki, one
+00:46:36,877 --> 00:46:45,719
+o słynnych fobiach lewicy. O, to bardziej tak. Bezosobowo bardziej. Ja zawsze mówię ad personam. Tego typu ataki, one...
 
 374
-00:46:45,702 --> 00:46:54,342
-Zazwyczaj, no nie jestem fanem, nie są dobre. Zdaję sobie sprawę z tego, że według niektórych mogą być w kampanii prezydenckiej konieczne.
+00:46:45,719 --> 00:46:54,325
+Zazwyczaj nie jestem fanem, nie są dobre. Zdaję sobie sprawę z tego, że według niektórych mogą być w kampanii prezydenckiej konieczne.
 
 375
-00:46:54,798 --> 00:46:57,380
+00:46:54,798 --> 00:46:57,397
 Natomiast w tym jednym wypadku...
 
 376
-00:46:58,173 --> 00:47:07,100
+00:46:58,173 --> 00:47:07,117
 atakować w ten sposób, nawet nie chcę powiedzieć starszą panią, ale kobietę, która ani z tego nie jest nie wiadomo jak znana, chociaż wiadomo, że o tym już nieraz mówiła.
 
 377
-00:47:07,370 --> 00:47:15,959
-odpuściłbym. To jeszcze myślę, że przy Karolu Nawrockim nie sposób nie wspomnieć o fladze i o zagrywkach z flagą, że jednak u nas biało-czerwona.
+00:47:07,117 --> 00:47:15,959
+Odpuściłbym. To jeszcze myślę, że przy Karol Nawrockim nie sposób nie wspomnieć o fladze i o zagrywkach z flagą, że jednak u nas biało-czerwona.
 
 378
 00:47:15,959 --> 00:47:25,949
@@ -1532,12 +1532,12 @@ tylko flagę LGBT i może nie tyle dumnie, co szybko maszeruje z nią do człowi
 No dobra, nie podobało mi się. Wolałbym zrobić to inaczej. Ale jeszcze bardziej nie podobało mi się w tym wszystkim to, co zrobił Trzaskowski.
 
 383
-00:48:02,382 --> 00:48:09,233
+00:48:02,382 --> 00:48:09,250
 No, o to mi chodzi. I to, co powiedziałeś, i wiesz, że tu nie chodzi tylko o to, że on ją schował, to chodzi o to, że on ją schował za szybko.
 
 384
-00:48:09,233 --> 00:48:14,735
-Tak szybko do schowania. Hop i nie ma.
+00:48:09,250 --> 00:48:14,735
+O szybkość tego schowania. Hop i nie ma.
 
 385
 00:48:14,735 --> 00:48:20,050
@@ -1552,12 +1552,12 @@ który byłby istotny, a zaczerpnięty z wielu wypowiedzi na temat sprawy, któr
 dobrym podjazdem do schowania tej flagi, żeby coś się pojawiło w tym. I dlatego chowam ją, żeby nie była obiektem niecnych ataków, na które ci ludzie sobie nie zasłużyli.
 
 388
-00:48:37,128 --> 00:48:46,730
-Tak, albo i w ogóle powiedzieć coś w stylu, że pan by chciał dzielić Polaków na takich i na takich. Ja uważam, że Polska jest jedna i nie będę tutaj mówił, tylko że będę mówił...
+00:48:37,128 --> 00:48:47,118
+Tak, albo i w ogóle powiedzieć coś w stylu, że Pan by chciał dzielić Polaków na takich i na takich. Ja uważam, że Polska jest jedna i nie będę tutaj mówił tylko, że będę mówił tylko do tych Polaków.
 
 389
-00:48:46,730 --> 00:48:54,172
-tylko dotyk czy dotyk. Dla mnie wszyscy są tacy sami, dlatego ja chowam tę flagę, bo ja mówię do was wszystkich, niezależnie jaką macie orientację. Tak też to można ograć.
+00:48:47,118 --> 00:48:54,172
+Dla mnie wszyscy są tacy sami, dlatego ja chowam tę flagę, bo ja mówię do was wszystkich, niezależnie jaką macie orientację. Tak też to można ograć.
 
 390
 00:48:54,172 --> 00:49:01,681
@@ -1568,28 +1568,28 @@ Pan i Pańskie Środowisko chcecie, żeby ludzie myśleli, że to nie ludzie, ty
 żeby nie dawać panu ku temu pretekstu. Kolejny przyszedł mi do głowy. A i tak całość pozamytała Magdabieja.
 
 392
-00:49:07,486 --> 00:49:15,788
+00:49:07,486 --> 00:49:15,822
 i nagle jest Magda Biejar w tym przypadku. Tak, i to mówię, no tutaj w tym wszystkim, jeśli tej trójki ktoś wygrał, to wygrał Karol Nawrocki.
 
 393
-00:49:15,788 --> 00:49:21,104
-Być może archaicznym gestem. Nie było to wspaniałe zwycięstwo, ale lece się pyrrusowe.
+00:49:15,822 --> 00:49:21,087
+Być może archaicznym gestem. Nie było to wspaniałe zwycięstwo, ale też nie pyrrusowe.
 
 394
-00:49:21,104 --> 00:49:29,795
-No właśnie, myślę, że gdyby Rafał Trzaskowski to lepiej ograł, to moglibyśmy mówić o tym, że to jednak on wyszedł z tego. A okazuje się, że tani chwyta dalej działa.
+00:49:21,087 --> 00:49:29,795
+No właśnie, myślę, że gdyby Rafał Trzaskowski to lepiej ograł, to moglibyśmy mówić o tym, że to jednak on wyszedł z tego. A okazuje się, że ta niechwyta dalej działa.
 
 395
 00:49:29,795 --> 00:49:34,925
 Gdzie dwóch się bije, tam Magdalena Biejat korzysta.
 
 396
-00:49:34,925 --> 00:49:42,788
-I ona na tym zdecydowanie najwięcej wygrała, czyli powiedziałbym tak, na pewno na tym wygrała Magda Biejat, zdecydowanie. W drugiej kolejności byłby Karol Nawrocki.
+00:49:34,925 --> 00:49:40,460
+I ona na tym zdecydowanie najwięcej wygrała, czyli powiedziałbym tak, na pewno na tym wygrała Magda Biejat? Zdecydowanie?
 
 397
-00:49:42,788 --> 00:49:48,880
-No i gdzieś długo Długonicy i Rafał Trzaskowski, który mógł z tym coś zrobić, mając spokojnie tego kompetencję.
+00:49:40,460 --> 00:49:48,880
+drugiej kolejności byłby Karol Nawrocki, no i gdzieś długo Długonicy i Rafał Trzaskowski, który mógł z tym coś zrobić, mając spokojnie tego kompetencję.
 
 398
 00:49:48,880 --> 00:49:54,230
@@ -1604,15 +1604,15 @@ Już przerabialiśmy flagi, wszystkie te rzeczy, już sobie stawialiśmy proporc
 Już moglibyśmy pójść dalej. Ale weź pod uwagę, że jeszcze niedawno drewniany Karol...
 
 401
-00:50:05,755 --> 00:50:10,987
+00:50:05,755 --> 00:50:11,003
 Nawet na to by sobie nie pozwolił. Jest progres. Obserwujmy, zobaczymy co tam sztabowcy.
 
 402
-00:50:10,987 --> 00:50:17,635
-Panie Karolu, jest lepiej sztabowcy, jest lepiej, robicie dobrą robotę, jeszcze trochę, jeszcze macie 20 dni.
+00:50:11,003 --> 00:50:17,669
+Nie Karolu, jest lepiej sztabowcy, jest lepiej, robicie dobrą robotę, jeszcze trochę, jeszcze macie 20 dni.
 
 403
-00:50:17,635 --> 00:50:25,533
+00:50:17,669 --> 00:50:25,533
 i potem zobaczymy idziemy dalej no chyba nie sposób jak już jesteśmy w pokoju pana Karola Nawrockiego to myślę, że.
 
 404
@@ -1629,14 +1629,14 @@ Rafał Trzaskowski. No więc co? Idziemy do tego pokoju, pukamy, słyszymy prosz
 
 407
 00:50:46,458 --> 00:50:53,714
-No i jesteśmy i tu mamy Rafała Trzaskowskiego, który co prawda zaszczycił nas swoją obecnością tylko na jednej debacie.
+Dzień dobry No jesteśmy i tu mamy Rafała Trzaskowskiego który co prawda zaszczycił nas swoją obecnością tylko na jednej debacie.
 
 408
 00:50:53,714 --> 00:50:58,726
 bo na inne z różnych powodów mu się nie chciało, nie mógł, nie wiadomo.
 
 409
-00:50:58,726 --> 00:51:08,345
+00:50:58,726 --> 00:51:08,362
 No to może zaczniemy od tego. Czy ty uważasz, że dobrze, że Rafał Trzaskowski się nie pokazuje i tak się zapiera nogami i rękami, żeby nie pojawiać się w innych debatach? Wszystko mi mówi, że to błąd.
 
 410
@@ -1645,7 +1645,7 @@ Ale być może oni wiedzą coś, czego nie wiem ja. Ja mam powiedzieć tak intui
 
 411
 00:51:17,963 --> 00:51:25,456
-Rozumiem, że się boją, że tam się wydarzą jakieś rzeczy niespodziewane. Z drugiej strony myślę, że jeśli
+Rozumiem, że się boją, że tam się wydarzą jakieś rzeczy niespodziewane. Z drugiej strony myślę, że jeśli...
 
 412
 00:51:25,456 --> 00:51:35,007
@@ -1656,11 +1656,11 @@ Masz taką bitwę, jaką masz. Już jedne wybory przegrał. I wierzę, że bez g
 Więc jeśli on faktycznie chce pokazać, że on jest trochę ponad tym, że ten duopol nie jest mu na rękę.
 
 414
-00:51:44,643 --> 00:51:51,899
+00:51:44,643 --> 00:51:51,983
 to według mnie nie ma lepszej okazji do tego, żeby pójść tam, gdzie masz trudno. Jasne, zgadzam się, że w republice nie miałby łatwo.
 
 415
-00:51:51,899 --> 00:52:00,202
+00:51:51,983 --> 00:52:00,202
 Ale mimo wszystko to by pokazało wszystkim tym ludziom, że on jest ponad to i potrafi. Tak jak Szymon Hołownia potrafił.
 
 416
@@ -1668,20 +1668,20 @@ Ale mimo wszystko to by pokazało wszystkim tym ludziom, że on jest ponad to i 
 Taką hipotezę, bo to nie jest żadna teoria, tylko jakieś luźne przemyślenia.
 
 417
-00:52:04,842 --> 00:52:14,073
+00:52:04,842 --> 00:52:14,090
 Człowiek szczególnie zapracowany, poddany intelektualnej presji w połączeniu z fizyczną presją. Wiesz, jeździsz po Polsce, śpisz po hotelach, nie masz swojego miejsca.
 
 418
-00:52:14,073 --> 00:52:19,237
+00:52:14,090 --> 00:52:19,237
 W ogóle taki patent dla ludzi, którzy często jeżdżą po hotelach, wozić ze sobą swoją poduszkę.
 
 419
-00:52:19,237 --> 00:52:26,881
-Wiem, czy ty tak robisz, ja tak robię, ja mam ze sobą zawsze swoją zsypiali poduszkę, żeby mieć już namiastkę domu, co mnie jakoś uspokaja i lepiej się pozwala wyspać.
+00:52:19,237 --> 00:52:26,864
+Wiem, czy ty tak robisz, ja tak robię, ja mam ze sobą zawsze swoją zsypiali poduszkę, żeby mieć już namiastkę domu, co mnie jakoś uspokaja i lepiej się pozwala wyspokoić.
 
 420
-00:52:26,881 --> 00:52:32,180
-To jak jesteśmy przy patentach hotelowych, bo ja też dużo po hotelach jeżdżę, mała rzecz się cieszy.
+00:52:26,864 --> 00:52:32,180
+To jak jesteśmy przy patentach hotelowych, bo ja też dużo po hotelach jeżdżę, mała rzecz cieszy.
 
 421
 00:52:32,180 --> 00:52:40,988
@@ -1696,48 +1696,48 @@ wali słońce przez okno za bardzo, póki się jeszcze nie obudzę, a te miejsca
 To też mam klipsy, którymi czasem spinam sobie zasłony, żeby mieć tak ciemno w pokoju. Plus w tej kieszeni walizki, która jest tak na samym brzegu.
 
 424
-00:52:55,906 --> 00:53:04,681
-zdjęcie ukochanej osoby albo zestawu ukochanych osób w ramce, które zawsze można postawić na szatce nocy. Bo jak śpisz na przykład 200 dni w hotelu, no to faktycznie chcesz mieć jakąś namiastkę takiego życia.
+00:52:55,906 --> 00:53:04,664
+zdjęcie ukochanej osoby albo zestawu ukochanych osób w ramce, które zawsze można postawić na szace nocy. Bo jak śpisz na przykład 200 dni w hotelu, no to faktycznie chcesz mieć jakąś namiastkę takiego życia.
 
 425
-00:53:04,681 --> 00:53:09,693
+00:53:04,664 --> 00:53:09,676
 No to trzeba zmierzyć. Chodzi po prostu o to, że ja myślę, że on jest ekstremalnie zmęczony.
 
 426
-00:53:09,693 --> 00:53:15,413
+00:53:09,676 --> 00:53:15,430
 wykończony, a do tego wszystkiego jest jeszcze poddany presji tych sondaży.
 
 427
-00:53:15,413 --> 00:53:20,425
-i tego, że jego oponenci grupowo walą w niego jak w bęben.
+00:53:15,430 --> 00:53:23,429
+i tego, że jego oponenci grupowo walą w niego jak w bęben i wymawiają, że jemu leci na łeb na szyję.
 
 428
-00:53:20,425 --> 00:53:29,183
-wymawiają, że jemu leci na łeb na szyję. Więc tam tych powodów do stresu jest bardzo dużo. I oni myślą sobie tak.
+00:53:23,429 --> 00:53:31,040
+Więc tam tych powodów do stresu jest bardzo dużo. I oni myślą sobie tak. Puścimy go na te debaty.
 
 429
-00:53:29,183 --> 00:53:34,955
-Puścimy go na te debaty, pęknie i po prostu coś palnie tak, że mu naprawdę poleci.
+00:53:31,040 --> 00:53:38,161
+pęknie i po prostu coś palnie tak, że mu naprawdę poleci, bo jest tylko człowiekiem, więc może nie ryzykujmy.
 
 430
-00:53:34,955 --> 00:53:43,780
-bo jest tylko człowiekiem, więc może nie ryzykujmy, bo on się może pogrążyć, dlatego że jest wyczerpany, zmęczony i trochę skołowa ciały.
+00:53:38,161 --> 00:53:43,763
+bo on się może pogrążyć, dlatego że jest wyczerpany, zmęczony i trochę skołowa ciały.
 
 431
-00:53:43,780 --> 00:53:50,767
+00:53:43,763 --> 00:53:50,750
 Pewnie tutaj masz rację. Ja po prostu obserwując tę kampanię trochę, którą robi Rafał Trzaskowski, mam takie...
 
 432
-00:53:50,767 --> 00:53:58,006
+00:53:50,750 --> 00:53:58,006
 Przebłyski, takie powidoki kampanii Bronisława Komorowskiego.
 
 433
-00:53:58,006 --> 00:54:07,237
+00:53:58,006 --> 00:54:07,253
 Trochę momentami jak słucham Rafała Trzaskowskiego, gdzie wszyscy już mówiliśmy, jest osobą formatu prezydenckiego, potrafi gadać, wszystko się zgadza, ale jednocześnie...
 
 434
 00:54:07,912 --> 00:54:14,965
-Tak jak wtedy Bronisław Komorowski mówił, ja nie mam z kim przegrać.
+Tak jak wtedy Bronisław Komorowski mówił, ja nie mam z kim przegrać. Ja miałem trochę wtedy wrażenie, jakby...
 
 435
 00:54:14,965 --> 00:54:24,280
@@ -1748,11 +1748,11 @@ I wszyscy już czekali, żebyśmy przez aklamację ogłosili, że on jest tym pr
 Ja nie będę się pokazywał w różnych miejscach. Ja wiem, że na nim jest presja. Ja rozumiem. Masz żółtą koszulkę lidera. To jest to, że wszyscy cię gonią.
 
 437
-00:54:32,785 --> 00:54:41,678
-rozumiem cały ścisk, który się wewnątrz niego dzieje, ale jednocześnie trochę zaczynam odnosić wrażenie, że on ma takie podejście.
+00:54:32,785 --> 00:54:41,645
+rozumiem cały ścisk, który się wewnątrz niego dzieje. Ale jednocześnie trochę zaczynam odnosić wrażenie, że on ma takie podejście.
 
 438
-00:54:41,678 --> 00:54:49,205
+00:54:41,645 --> 00:54:49,205
 Tu nie pójdę, tam nie pójdę, już jakby zagłosujcie na mnie, już miejmy spokój. I uważam, że to jest bardzo niebezpieczne, bo już raz tak mieliśmy.
 
 439
@@ -1768,11 +1768,11 @@ Jest taka stara zasada, o której pewnie też uczysz na swoich wykładach i szko
 jak bardzo niebezpieczna jest manipulacja z dwóch powodów. Po pierwsze dlatego, że jest to coś bardzo nieetycznego.
 
 442
-00:55:07,126 --> 00:55:14,770
+00:55:07,126 --> 00:55:14,838
 A po drugie, gdy człowiek manipulowany zorientuje się, że jest manipulowany, to nie tylko podejmuje kroki, żeby jakoś się...
 
 443
-00:55:15,158 --> 00:55:22,246
+00:55:15,175 --> 00:55:22,246
 w te sidła nie dać złapać, ale narasta w nim wrogość do osoby manipulującej. Tak, manipulacja w momencie, kiedy się orientujesz.
 
 444
@@ -1784,20 +1784,20 @@ To jest pewien bezpiecznik w głowie, że jeśli się orientujesz, że ja coś p
 i zauważasz, składają się te klocki w głowie, no to już w tym momencie żadnego przyjaciela mieć w tobie nie będę. I teraz do czego zmierzam?
 
 446
-00:55:37,450 --> 00:55:43,745
+00:55:37,450 --> 00:55:43,728
 Jesteśmy w przeddzień tej debaty, która miałaby być debatą Trzaskowski-Nawrocki, prawda?
 
 447
-00:55:43,745 --> 00:55:53,515
+00:55:43,728 --> 00:55:53,515
 dochodzi do całego tego zamieszania, które sprawia, że jednak pojawiają się też inni kandydaci i gdy ten wątek pojawia się podczas
 
 448
-00:55:53,515 --> 00:56:03,168
-debatowej rozmowy, Rafał Trzaskowski mówi coś takiego. To jest dobre pytanie, drodzy państwo, no więc zobaczcie państwo, co się działo w tych ostatnich miesiącach.
+00:55:53,515 --> 00:56:03,505
+debatowej rozmowy, Rafał Trzaskowski mówi coś takiego. To jest dobre pytanie, drodzy Państwo, no więc zobaczcie Państwo, co się działo w tych ostatnich miesiącach i tych
 
 449
-00:56:03,168 --> 00:56:12,533
-w takich tych ostatnich dniach ja jasno powiedziałem o tym, że jestem gotowy tak jak to zawsze jest w każdej kampanii wyborczej debatować ze wszystkimi kandydatami mówiliśmy się na.
+00:56:03,505 --> 00:56:12,533
+ostatnich dniach ja jasno powiedziałem o tym, że jestem gotowy tak jak to zawsze jest w każdej kampanii wyborczej debatować ze wszystkimi kandydatami mówiliśmy się na.
 
 450
 00:56:12,533 --> 00:56:19,435
@@ -1816,20 +1816,20 @@ i zaczęli wszyscy na wyścigi wywoływać mnie na debatę jeden na jeden. No wi
 prośbę pana nawróckiego żebyśmy stanęli jeden na jeden powiedziałem ok proszę bardzo niech pan przyjeżdża do końskich spotkajmy się jeden na jeden no niestety.
 
 454
-00:56:48,545 --> 00:56:58,214
-pan Nawrocki stworzył nie chciał ze mną dyskutować 1 na 1 jak się okazało, że wiele innych osób chce przyjechać to ja powiedziałem proszę bardzo z szacunku dla was z szacunku na dla wyborców.
+00:56:48,545 --> 00:56:58,197
+pan Nawrocki skurzył nie chciał ze mną dyskutować 1 na 1 jak się okazało, że wiele innych osób chce przyjechać to ja powiedziałem proszę bardzo z szacunku dla was z szacunku na dla wyborców.
 
 455
-00:56:58,214 --> 00:57:03,226
+00:56:58,197 --> 00:57:03,209
 Byłem w stanie stanąć ze wszystkimi innymi a miał być 1 na 1 No bał się pan i tam on tu.
 
 456
-00:57:03,226 --> 00:57:09,740
+00:57:03,209 --> 00:57:09,740
 że Nawrocki, że to on płakał, że skarżył czy coś. Tak, tak, tak, że mieliśmy debatować, a on nie debatował.
 
 457
 00:57:09,740 --> 00:57:16,962
-Przecież to jest czysta manipulacja, to jest takie odwracanie kota ogonem i abstrahując od tego, że można próbować, ale w
+Przecież to jest czysta manipulacja, to jest takie odwracanie kota ogonem i abstrahując od tego, że no można próbować, ale w
 
 458
 00:57:16,962 --> 00:57:26,935
@@ -1840,39 +1840,39 @@ W tym momencie kampanii, w którym jesteśmy, mówienie takich rzeczy jest stras
 że się robi z niego wariata.
 
 460
-00:57:29,416 --> 00:57:37,448
+00:57:29,416 --> 00:57:37,313
 I ja myślę, że tu jest to ryzyko, o którym sztab wie, że nie chcą go za bardzo wypuszczać na różne konfrontacje.
 
 461
-00:57:37,448 --> 00:57:44,857
+00:57:37,313 --> 00:57:44,840
 Bo tego typu kwiatków może być więcej. Tylko wiesz, sytuacja z tym pytaniem, bardzo słusznym zresztą pytaniem,
 
 462
-00:57:44,857 --> 00:57:49,902
+00:57:44,840 --> 00:57:49,852
 Jak to się stało, że ta debata jest?
 
 463
-00:57:49,902 --> 00:57:58,323
-Myślę, że ten sztab mógł wymyślić, bo wiadomo było, że to pytanie padnie. Swoją drogą jak ja od polityka słyszę hasło, nie wiem czy też tak masz, ale ja po prostu jestem wyczulony na taką technikę.
+00:57:49,852 --> 00:57:58,306
+Już myślę, że ten sztab mógł wymyślić, bo wiadomo było, że to pytanie padnie. Swoją drogą, jak ja od polityka słyszę hasło, nie wiem czy też tak masz, ale ja po prostu jestem wyczulony na taką technikę.
 
 464
-00:57:58,323 --> 00:58:04,482
-że jak słyszę, że jest pytanie do polityka i on mówi, to jest bardzo dobre pytanie, to ja już mam takie o kurcze zaraz będzie.
+00:57:58,306 --> 00:58:04,499
+że jak słyszę, że jest pytanie do polityka i on mówi, to jest bardzo dobre pytanie, to już mam takie, o kurcze, zaraz będzie.
 
 465
-00:58:04,482 --> 00:58:11,958
+00:58:04,499 --> 00:58:11,958
 Teraz Tyrada, która leci w zupełnie inną stronę albo świetnie, że pan zadał to pytanie, bo faktycznie dzisiaj dla Polaków to jest istotne.
 
 466
 00:58:11,958 --> 00:58:18,590
-No to wiem, że idziemy techniką i wiem, że tam już za tym będzie jakiś jakiś chwyt i tutaj ten chwyt po prostu był, natomiast.
+No to wiem, że idziemy techniką i wiem, że tam już za tym będzie jakiś chwyt. I tutaj ten chwyt po prostu był, natomiast...
 
 467
 00:58:18,590 --> 00:58:26,538
 To jest taki fikołek logiczny z tym, że w zasadzie to wszyscy inni są winni, że Karol Nawrocki nie chciał kandydować, znaczy nie chciał debatować.
 
 468
-00:58:26,538 --> 00:58:34,132
+00:58:26,538 --> 00:58:34,098
 Dlatego ja w sumie zaprosiłem wszystkich. Kupy się tam nic nie trzymało. Ja rozumiem, że on przez to ładnie przebrnął w sensie erystycznym.
 
 469
@@ -1880,16 +1880,16 @@ Dlatego ja w sumie zaprosiłem wszystkich. Kupy się tam nic nie trzymało. Ja r
 Ale to nie, to już ludzie widzą. Czasami, gdy podglądasz tzw. backstage, czyli zaplecze produkcji programów telewizyjnych, można zobaczyć, że
 
 470
-00:58:43,615 --> 00:58:49,268
+00:58:43,615 --> 00:58:49,252
 W niektórych, szczególnie w dawnych czasach pojawiał się pan lub pani z tablicą aplaus i wszyscy.
 
 471
-00:58:50,973 --> 00:59:00,271
-Mam wrażenie, że niewidzialna tablica, patrzcie jaki jestem fajny, pojawia się i wjeżdża w niektórych fragmentach wypowiedzi.
+00:58:50,973 --> 00:59:00,963
+Prawda? Mam wrażenie, że niewidzialna tablica, patrzcie jaki jestem fajny, pojawia się i wjeżdża w niektórych fragmentach wypowiedzi Rafała Trzaskiego.
 
 472
-00:59:00,271 --> 00:59:07,122
-wiezi Rafała Trzaskowskiego. Jako młody chłopak pracowałem na Kapitolu. Jeb tablica, jaki jestem fajny.
+00:59:00,963 --> 00:59:07,122
+Jako młody chłopak pracowałem na Kapitolu. Jeb tablica, jak jestem fajny.
 
 473
 00:59:07,122 --> 00:59:14,530
@@ -1912,7 +1912,7 @@ Ale nie chłopak, tylko człowiek. Jako młody człowiek pracowałem na Kapitolu
 I nie, że tam się uczyłem, tylko tam dba się o to, żeby młodzi ludzie mogli nauczyć się tego i tego. Żeby zmniejszyć troszeczkę ten procent narracji.
 
 478
-00:59:46,103 --> 00:59:49,900
+00:59:46,103 --> 00:59:49,883
 Ostatnio jak znajomy się mnie zapytał...
 
 479
@@ -1920,7 +1920,7 @@ Ostatnio jak znajomy się mnie zapytał...
 Co według mnie Rafał Trzaskowski powinien zmienić, żeby było lepiej? No i trochę sobie posiedziałem nad tym i zacząłem się zastanawiać i mój wniosek jest taki.
 
 480
-00:59:59,603 --> 01:00:06,016
+00:59:59,603 --> 01:00:05,847
 Bo wszystko to, co właśnie teraz powiedziałaś, mi wpadło do głowy apropo tego, że...
 
 481
@@ -1932,39 +1932,39 @@ Wszyscy wiemy, że Rafał Trzaskowski z jakiegoś powodu ten bonjour do niego pr
 Jest to człowiek z historią, z rekinami i tak dalej. Wszystko się zgadza.
 
 483
-01:00:20,512 --> 01:00:27,835
+01:00:20,512 --> 01:00:27,818
 Z jakiegoś powodu ktoś w sztabie zdecydował, że on nie może być takim gościem, bo inteligenci się słabo sprzedają.
 
 484
-01:00:27,835 --> 01:00:37,150
+01:00:27,818 --> 01:00:37,235
 I oni go tak mam wrażenie wciskają w rolę takiego ziomka Rafała. Wiesz, że on będzie jak młody chłopak robiłem. Ja jestem taki trochę wyluzowany.
 
 485
-01:00:37,150 --> 01:00:43,799
-Ale widać, że im bardziej oni go w to wyluzowanie wciskają, tym ono mu bardziej nie pasuje.
+01:00:37,235 --> 01:00:47,225
+Ale widać, że im bardziej oni go w to wyluzowanie wciskają, tym ono mu bardziej nie pasuje. Ono mu zaczyna ciążyć momentalnie. Bo on po prostu zupełnie nie jest takim człowiekiem według mnie.
 
 486
-01:00:43,799 --> 01:00:51,207
-Bo on po prostu zupełnie nie jest takim człowiekiem według mnie. On jest facetem, który faktycznie jest inteligencją.
+01:00:47,225 --> 01:00:54,937
+On jest facetem, który faktycznie jest inteligencją i on faktycznie tak ma, że on prawdopodobnie
 
 487
-01:00:51,207 --> 01:00:59,071
-I on faktycznie tak ma, że on prawdopodobnie nie siedzi z browcem wieczorami, tylko jak już to ja widzę go z jakimś...
+01:00:54,937 --> 01:01:04,927
+Nie siedzi z Browcem wieczorami, tylko jak już to ja widzę go z jakimś koniakiem w Szlafroku z Atłasu. I ja też na przykład wierzę, że on jednak kilka książek w życiu przeczytał.
 
 488
-01:00:59,071 --> 01:01:06,007
-koniakiem w Szlafroku z Atłasu. I ja też na przykład wierzę, że on jednak kilka książek w życiu przeczyta. Absolutnie.
+01:01:04,927 --> 01:01:10,580
+Absolutnie. Dokładnie o to mi chodzi. I robienie z niego na siłę i tłumaczenie mu.
 
 489
-01:01:06,007 --> 01:01:15,997
-Dokładnie o to mi chodzi. I robienie z niego na siłę i tłumaczenie mu. Rafał, bądź taki, wiesz, jak oni. On taki nie jest. I on w momencie, kiedy jedzie i je te kiszonki.
+01:01:10,580 --> 01:01:17,262
+Rafał bądź taki, wiesz, jak oni. On taki nie jest. I on w momencie, kiedy jedzie i je te kiszone ogórki z ludźmi.
 
 490
-01:01:15,997 --> 01:01:25,328
+01:01:17,262 --> 01:01:25,328
 To widać, że to jest facet, który siedzi z tym kiszonymi ogórkami i mówi, ale super. I on ma takie, boże to wy tu tak żyjecie, że jecie te ogórki.
 
 491
-01:01:25,328 --> 01:01:29,530
+01:01:25,328 --> 01:01:29,513
 I to po prostu mi się gryzie z nim. Gdyby ktoś zresztą powiedział tak, dobra.
 
 492
@@ -1980,12 +1980,12 @@ To takiego to zazdrościmy i idziemy w to, bo to jest, bo ty się potrafisz w ty
 Ale nie, wrzucamy go do chłopka roztropka i lecisz gościu w tym.
 
 495
-01:01:51,788 --> 01:01:57,290
+01:01:51,788 --> 01:01:57,307
 od prężenia i relaksu zapewnić, a jednocześnie żeby była w tym jakaś wartość edukacyjna.
 
 496
-01:01:57,290 --> 01:02:03,398
-to bym kiedyś w hotelu odpalił mu z YouTube'a, co stanowiłoby pewien wzorzec dwie rzeczy.
+01:01:57,307 --> 01:02:03,398
+to bym kiedyś w hotelu odpalił mu z YouTube'a, co stanowiłoby pewien wzorzec, dwie rzeczy.
 
 497
 01:02:03,652 --> 01:02:13,642
@@ -2004,547 +2004,547 @@ Ludzi pracy i sposób, w jaki on z nimi rozmawia. Jeremiej Przybora genialny prz
 nie tracąc swojej elegancji, swojego czaru i nigdy nie było w nim wyniosłości, tylko była jakaś nieopisana miłość do ludzi.
 
 501
-01:02:39,848 --> 01:02:49,417
-A dlaczego nie czerpać z takich starych, dobrych wzorców? Właśnie, bo ja w tych debatach, znaczy ja rozumiem, że te debaty były też nie po myśli Rafała Trzaskowskiego. No wiadomo, wszystko mu się wysypało.
+01:02:39,848 --> 01:02:49,433
+A dlaczego nie czerpać z takich starych, dobrych wzorców? Właśnie, bo ja w tych debatach, znaczy ja rozumiem, że te debaty były też niepomyśli Rafała Trzaskowskiego. No wiadomo, wszystko mu się wysypało.
 
 502
 01:02:50,294 --> 01:02:58,023
 Ale wy widać było tą złość, widać było, że on jest wściekły. Czasem ta pogarda się pojawiała, to taki ten kpiący uśmiech.
 
 503
-01:02:58,023 --> 01:03:06,629
+01:02:58,023 --> 01:03:06,646
 To, że on po prostu taki pochylony czasem stał na tej mównicy, ewidentnie wściekły, że mu się to nie udało. I nawet tak banalna rzecz jak to, jak już masz tych wszystkich kandydatów.
 
 504
-01:03:06,629 --> 01:03:13,548
-Nie tłucz po prostu cały czas tego Karola Nawrockiego, bo tylko do tego się przygotowałeś.
+01:03:06,646 --> 01:03:16,383
+Nie tłucz cały czas tego Karola Nawrockiego, bo tylko do tego się przygotowałeś. Jak już tak się wydarzyło, to pokaż, że umiesz tym zagrać.
 
 505
-01:03:13,548 --> 01:03:18,560
-Tak się wydarzyło, to pokaż, że umiesz tym zagrać. Odwij do kogoś innego.
+01:03:16,383 --> 01:03:23,791
+Odbij do kogoś innego, do kogokolwiek. Wiesz, że są kandydaci, którzy ci w żaden sposób nie grożą. Do Marka Jakubiaka, do Krzyśka.
 
 506
-01:03:18,560 --> 01:03:23,791
-Wiesz, że są kandydaci, którzy ci w żaden sposób nie grożą. Do Marka Jakubiaka, do Krzyśka.
+01:03:23,791 --> 01:03:29,225
+do kogokolwiek innego, a nie tylko pyk pyk Karol Nawrocki, Karol Nawrocki, Karol Nawrocki.
 
 507
-01:03:23,791 --> 01:03:29,225
-do kogokolwiek innego, a nie tylko pyk pyk Karol Nawrocki, Karol Nawrocki, Karol Nawrocki
-
-508
 01:03:29,225 --> 01:03:34,220
 Dobra to co co sugerujemy siedząc jako sztabowcy Rafała Trzaskowskiego w tym pokoju.
 
-509
+508
 01:03:34,422 --> 01:03:39,535
 Ja przede wszystkim bym powiedział tak, panie Rafale, niech pan przestanie w końcu udawać, że pan...
 
-510
+509
 01:03:39,535 --> 01:03:45,357
 jeździ tymi pociągami z ludźmi i je tą kanapkę po prostu ze sreberka wyciągniętą z jajkiem.
 
-511
+510
 01:03:45,357 --> 01:03:51,955
 Wiemy, że tak nie jest. Niech pan pokaże, że to, co pan reprezentuje, to jest coś, co jest inne.
 
-512
+511
 01:03:51,955 --> 01:03:59,380
 Tym pan może wygrać. To po pierwsze bym zrobił. A ja bym powiedział. Po drugie, niech pan zabierze poduszkę z domu i niech się pan do cholery w końcu wyśpi.
 
-513
-01:03:59,380 --> 01:04:04,392
+512
+01:03:59,380 --> 01:04:04,510
 Bo to mruganie jeszcze jego takie wolne oczami, czasem po prostu na takim 0,25.
 
-514
-01:04:04,392 --> 01:04:12,155
+513
+01:04:04,510 --> 01:04:12,155
 Zaczynasz chłopie wyglądać na turbo zmęczonego i dojeżdża cię to wszystko. Ludzie mogą przestać ci ufać, bo zaczną się...
 
+514
+01:04:12,155 --> 01:04:21,031
+plotki domniemania kto jest pod wpływem czego albo czy to jest aby na pewno człowiek który da radę skoro już teraz jest taki wykończony szczególnie, że inni.
+
 515
-01:04:12,155 --> 01:04:21,048
-plotki domniemania kto jest pod wpływem czego albo czy to jest aby na pewno człowiek który da radę skoro już teraz jest taki wykończony szczególnie że inni.
+01:04:21,031 --> 01:04:30,481
+zaczynają w tym wszystkim kondycyjnie, co zaskakujące, bardzo rozkwitać. Zresztą to jest moje wrażenie a propos tego, którym za chwilę się, kandydata, którym za chwilę się zajmiemy.
 
 516
-01:04:21,048 --> 01:04:30,481
-zaczynają w tym wszystkim kondycyjnie, co zaskakujące, bardzo rozkwitać. Zresztą to jest moje wrażenie a propos tego kandydata, którym za chwilę się zajmiemy.
-
-517
 01:04:30,481 --> 01:04:39,948
 No więc to jest moja rada. Co jeszcze od Ciebie? Reszta wiadomo. Wyglądowo wszystko jest okej. Ja się podpisuję pod tym. Niech się wyluzuje, niech się wyśpi.
 
-518
+517
 01:04:39,948 --> 01:04:49,938
 I niech przestanie zachowywać się tak, jakby już wygrał te wybory, bo to ludzie widzą. I odpalamy na YouTubie Dudek i Kabaret Starszych Panów.
 
-519
+518
 01:04:49,938 --> 01:04:55,456
 ze szczególnym fokusem skupieniem na postaci Jeremiego Przyborowi. Dokładnie tak. No to co?
 
-520
+519
 01:04:55,456 --> 01:05:04,450
-To idźmy teraz do tego pana, któremu klasy i swady słownej nigdy nie brakuje. Szczęść Boże. I ratuj się kto może. Dzień dobry, pan Grzegorz Braun.
+To idźmy teraz do tego pana, któremu kasy i swady słownej nigdy nie brakuje. Szczęść Boże. I ratuj się kto może. Dzień dobry, pan Grzegorz Braun.
 
-521
+520
 01:05:04,450 --> 01:05:13,327
 Tak jest. Szczęcić Boże. Daj Boże. Kłaniam. I teraz uwaga.
 
-522
+521
 01:05:13,563 --> 01:05:22,878
 Mam ogromną prośbę, bo Grzegorz Braun ma gigantyczny fanklub tutaj u nas. Proszę Państwa.
 
-523
+522
 01:05:23,367 --> 01:05:31,163
 Prosimy, weźcie sobie do serca te słowa. Nie interesują nas poglądy polityczne Grzegorza Brauna w tym momencie.
 
-524
+523
 01:05:31,163 --> 01:05:40,495
 Ten program, wśród wielu innych, które polityką się zajmują, skoncentrowany jest na tym, w jaki ten człowiek sposób komunikuje, na technikaliach.
 
-525
+524
 01:05:40,495 --> 01:05:46,553
 Tak i nawet jak śmiejemy się, czy trochę podgryzamy, czy jesteśmy czasem troszkę sarkastyczni.
 
-526
+525
 01:05:46,553 --> 01:05:56,020
-to nam nie chodzi cały czas, naprawdę nie chodzi nam o to, kto co wyznaje, tylko chodzi o to, w jaki sposób te swoje poglądy podaje. Jakie on je ma, to jest zupełnie...
+To nam nie chodzi cały czas, naprawdę nie chodzi nam o to, kto co wyznaje, tylko chodzi o to, w jaki sposób te swoje poglądy podaje. Jakie on je ma, to jest zupełnie...
 
-527
+526
 01:05:56,020 --> 01:06:03,226
 Inna sprawa. No ale po tym pięknym wstępie trzeba powiedzieć jedną rzecz. No to teraz leci bardzo duża pochwała.
 
-528
+527
 01:06:03,226 --> 01:06:08,812
 Do pana Grzegorza Brauna, bo uważam, że na debacie w Telewizji Republika.
 
-529
+528
 01:06:09,588 --> 01:06:16,102
 zachował się naprawdę rewelacyjnie. Na samym początku z tym kartonowym Rafałem Trzaskowskim, jak zaczęliśmy.
 
-530
-01:06:16,102 --> 01:06:24,050
+529
+01:06:16,102 --> 01:06:24,016
 No to gdyby mi ktoś kazał obstawiać to nie powiedziałbyś, że zrobi tak chciałbym jednak odnieść się do.
 
-531
+530
 01:06:24,927 --> 01:06:30,935
 tej dekoracji, którą tutaj państwo zainstalowaliście, to jest słabe, Pani redaktor.
 
-532
+531
 01:06:33,263 --> 01:06:42,578
 Kochany, szanowny pośle Marku, to słabe. No właśnie. No piękna sprawa, że ktoś w takiej sytuacji...
 
-533
-01:06:42,578 --> 01:06:52,417
+532
+01:06:42,578 --> 01:06:52,400
 To nie jest kwestia, że musimy się obrzucać błotem niezależnie od wszystkiego. I to, że Grzegorz Braun mówi, to słabe jest.
 
+533
+01:06:52,400 --> 01:07:00,837
+To jest naprawdę piękne, bo on to w prostych słowach, ale po prostu to jest słabe. To jest jeden z tych gestów z Księgi Gestów Kampanijnych.
+
 534
-01:06:52,417 --> 01:06:57,445
-To jest naprawdę piękne, bo on to w prostych słowach, ale po prostu to jest słabe.
+01:07:00,837 --> 01:07:09,713
+które chociaż mogą być na tę okoliczność wykreowane, wymyślone, być może przewidziane, mimo wszystko są dobre i ludzkie.
 
 535
-01:06:57,445 --> 01:07:05,208
-z tych gestów, z księgi gestów kampanijnych, które chociaż mogą być na tę okoliczność wykreowane, wymyślone.
+01:07:09,713 --> 01:07:14,962
+To jest dokładnie gest z tej samej półki, co rajd po flagę u Magdaleny Biejat.
 
 536
-01:07:05,208 --> 01:07:14,962
-być może przewidziane, mimo wszystko są dobre i ludzkie. I to jest dokładnie gest z tej samej półki, co rajd po flagę u Magdaleny Biejat.
-
-537
-01:07:14,962 --> 01:07:20,952
+01:07:14,962 --> 01:07:20,918
 Gest pewnego rodzaju troski. Tak bym to zakwalifikował. Gesty troski.
 
-538
-01:07:20,952 --> 01:07:28,040
+537
+01:07:20,918 --> 01:07:28,040
 I takiego wzniesienia się ponad podziały, że mówisz OK, ja mogę się z nim nie zgadzać, ja mogę go nie lubić, ale po prostu stawianie, bo on tam jeszcze powiedział, że
 
-539
+538
 01:07:28,040 --> 01:07:35,735
 Stawianie człowieka, który w danym momencie wygląda, jest niefortunnie sfotografowany, czy być może przerobiony, że to po prostu nie przystoi.
 
-540
+539
 01:07:35,735 --> 01:07:44,560
 Zobacz, to jest jego skrajny kontrkandydat, taki naprawdę z drugiego końca kija i on mówi, że to jest niefortunne ujęcie i że teraz to bardzo łatwo coś takiego zrobić.
 
-541
+540
 01:07:44,560 --> 01:07:52,913
 I my przy poprzednim odcinku, gdzie był Grzegorz Braun, powiedzieliśmy, że chcielibyśmy więcej od Grzegorza Brauna takiego człowieczeństwa, takiego pokazania tej ludzkiej twarzy.
 
-542
+541
 01:07:53,605 --> 01:08:02,549
 No to mówisz masz, bo jak dla mnie to jest właśnie sytuacja, w której Grzegorz Braun pokazał bardzo dużo takiej ludzkiej twarzy, takiego zwykłego człowieczeństwa po prostu.
 
-543
+542
 01:08:02,549 --> 01:08:11,678
 A z drugiej strony podanego bardzo z gracją, bo to było świetnie podane. Szczególnie jak to widać, że najpierw się zwrócił do pani redaktor, po czym pan Marek Jakubek mówi, to był mój pomysł.
 
-544
+543
 01:08:11,678 --> 01:08:20,200
 I on mówi to, kochany po ślemarku. To słabe było. I to jest tak bardzo spokojnie powiedziane.
 
-545
-01:08:20,200 --> 01:08:28,840
+544
+01:08:20,200 --> 01:08:28,823
 bez żadnej agresji, bez niczego, po prostu stwierdzenie faktu, z którym się nie dyskutuje. Przy tym podobała mi się też nietleriposta, co odpowiedź posłał Marka.
 
-546
-01:08:28,840 --> 01:08:36,265
+545
+01:08:28,823 --> 01:08:36,265
 Otóż w tekturowym państwie Donalda Tuska, tekturowy Rafał Trzaskowski, no jakby pasuje. Ten obrazek mi pasuje.
 
-547
+546
 01:08:36,265 --> 01:08:46,255
 I to był taki spór, który prowadzony był, choć spór to wielkie słowo, ale ze względem całkiem ujmującym szacunkiem. A później sprawy potoczyły się dalej.
 
-548
+547
 01:08:46,255 --> 01:08:53,038
 Panie skupili się na czymś innym. Reflex? Absolutnie dobry moment na takie coś.
 
-549
-01:08:53,038 --> 01:09:00,380
+548
+01:08:53,038 --> 01:09:00,363
 Dwa pokazanie, że jestem ponad podziałami i że są rzeczy, których sobie po prostu nie będziemy robić, bo są strzałem poniżej pasa.
 
-550
-01:09:00,380 --> 01:09:06,286
+549
+01:09:00,363 --> 01:09:06,286
 I to trochę według mnie podnosi od razu poziom debaty. Super. Tak, po co są okazje, jak ktoś kiedyś powiedział.
 
-551
-01:09:06,286 --> 01:09:14,656
+550
+01:09:06,286 --> 01:09:14,673
 żeby z nich korzystać i żeby je tak do cnawy korzystywać. I tutaj 10 na 10 dla Grzegorza Brauna, który zachował się
 
-552
-01:09:14,656 --> 01:09:21,270
+551
+01:09:14,673 --> 01:09:21,270
 Jak to kiedyś mówiono, jak ludzki pan. Dokładnie tak. Poza tym myślę, że Grzegorz Braun tu nas nie zaskoczył.
 
-553
+552
 01:09:21,270 --> 01:09:31,143
 W dużej mierze wszystko to, co mówiliśmy przy ostatnim podsumowaniu jest dalej. To znaczy pan Grzegorz Braun jest dalej panem Grzegorzem Braunem. Dalej opowiada piękną polszczyzną.
 
-554
+553
 01:09:31,143 --> 01:09:40,475
 Rzeczy, od których niektórym stają włosy na głowie. Dokładnie tak, bo dalej precz ze wszystkim. Tutaj zobaczmy z czym Pan Grzegorz chciałby się uporać.
 
-555
-01:09:40,475 --> 01:09:46,803
+554
+01:09:40,475 --> 01:09:46,786
 No właśnie, więc precz z wiadomymi rzeczami, których pan Grzegorz nie lubi w Polsce, za granicą.
 
-556
+555
 01:09:47,714 --> 01:09:55,932
 Spójne przynajmniej i stabilne. A ja niedawno sobie zadałem pytanie. Czy Grzegorz Braun...
 
-557
-01:09:56,101 --> 01:10:01,653
-we wnętrzu swojego serca własnego, gdzieś tam w ciszy i spokoju, gdy stawia sobie
+556
+01:09:56,101 --> 01:10:01,670
+we wnętrzu swojego serca własnego, gdzieś tam w ciszy i spokoju, gdy stawia sobie...
 
-558
+557
 01:10:02,362 --> 01:10:06,513
 Pytanie, czy on wierzy w to, że mógłby zostać prezydentem?
 
-559
-01:10:07,357 --> 01:10:14,495
-To ja myślę, że on wie, że odpowiedź brzmi nie.
+558
+01:10:07,357 --> 01:10:14,478
+To ja myślę, że on wie, że odpowiedź brzmi nie. Też mi się tak wydaje.
 
-560
+559
 01:10:14,849 --> 01:10:23,033
 którzy chcą zrealizować jakiś swój ważny cel, to oprócz Marka Jakubiaka wiadomo jest naprawdę dwóch. Krzysztof Stanowski i właśnie on.
 
-561
+560
 01:10:23,033 --> 01:10:30,779
 Bo z jednej strony owialny pan, który pięknie wykorzystał tę okazję, by powiedzieć, że to nie jest dobre z tym Rafałem wyciętym z tektury.
 
-562
+561
 01:10:30,779 --> 01:10:40,769
 Ale z drugiej strony ten sam pan spokojny i owialny w mega giga agresywnej akcji z gaśnicą.
 
-563
+562
 01:10:40,769 --> 01:10:45,781
 Chciał opowiadać, że na ale ona była w ważnym celu żeby zaprotestować ja to rozumiem forma
 
-564
+563
 01:10:45,781 --> 01:10:52,042
 Ale chodzi o formy. Zastanówmy się zupełnie obiektywnie nad formą. Czy to był zestaw przyjaznych gestów?
 
-565
+564
 01:10:52,042 --> 01:11:00,175
 Czy raczej agresywnych, niebezpiecznych, potencjalnie niebezpiecznych dla zdrowia innych? Raczej odpowiedź jest ta druga. I nagle ten ktoś, kto działa w taki sposób...
 
-566
+565
 01:11:00,175 --> 01:11:09,811
 Tutaj pokazuje się jako taki spokojny, owialny pan. On wie, że on nie wygra tych wyborów, że on nie ma na to szans, ale przepięknie.
 
-567
+566
 01:11:09,811 --> 01:11:14,857
 cementuje swój mocny elektorat. I te wszystkie rzeczy, które on robi.
 
-568
-01:11:14,857 --> 01:11:22,096
+567
+01:11:14,857 --> 01:11:22,079
 To jest ten cement, ten żelbet, który on wylewa na ten swój elektorat, żeby oni zawsze byli po jego stronie.
 
-569
-01:11:22,096 --> 01:11:32,086
-I to, że on jest właśnie podawany w taki, a nie inny sposób, bo ja mam wrażenie, że tak. O tym mówię właśnie, że tu gesty bardzo agresywne, stanowcze, a tutaj spokojne i wyważone.
+568
+01:11:22,079 --> 01:11:32,069
+I to, że on jest właśnie podawany w taki, a nie inny sposób, bo ja mam wrażenie... No o tym mówię właśnie, że tu gesty bardzo agresywne, stanowcze, a tutaj spokojne i wyważone.
 
-570
-01:11:32,086 --> 01:11:41,806
+569
+01:11:32,069 --> 01:11:41,806
 I wydaje mi się, to jest takie trochę na granicy pewności, jak czytam nawet komentarze tutaj naszych widzów, a propos właśnie Grzegorza Brauna.
 
-571
+570
 01:11:41,806 --> 01:11:49,771
 że przez to właśnie, że Grzegorz Braun tak pięknie opowiada, że on potrafi tak bardzo ładnie i okrągle mówić.
 
-572
+571
 01:11:49,771 --> 01:11:56,605
 to właśnie przez to ta agresja, która się wydarza, trochę mu uchodzi na sucho.
 
+572
+01:11:56,605 --> 01:12:01,853
+ciężkiego do przegryzienia, to potem opowie o tym w takich słowach.
+
 573
-01:11:56,605 --> 01:12:05,380
-ciężkiego do przegryzienia, to potem opowie o tym w takich słowach i tak pięknie to wiesz ubierze, że ciężko się złościć może po prostu.
+01:12:01,853 --> 01:12:10,578
+Pięknie to wiesz ubierze, że ciężko się złościć może po prostu. I wtedy powstaje wrażenie, że to nie jest jego natura, tylko to są jego metody.
 
 574
-01:12:05,380 --> 01:12:10,578
-I wtedy powstaje wrażenie, że to nie jest jego natura, tylko to są jego metody.
-
-575
 01:12:10,578 --> 01:12:16,366
 Takie odklejenie, czyli że chwytam się tych trudnych metod, ale jednocześnie walcę o słuszną sprawę.
 
-576
+575
 01:12:16,366 --> 01:12:24,044
 Bo to jest absolutnie daleko od mojej takiej prawdziwej, czy takiego odruchu pierwszego. To ja po prostu muszę odrobić wbrew sobie.
 
-577
-01:12:24,044 --> 01:12:32,262
-I dlatego właśnie to, co wydawało mi się takie niespójne na początku, gdzie tu jest ten atak gaśnicowy, a tutaj ta troska o
+576
+01:12:24,044 --> 01:12:32,397
+I dlatego właśnie to, co wydawało mi się takie niespójne na początku, gdzie tu jest ten atak gaśnicowy, a tutaj ta troska o...
 
-578
-01:12:32,262 --> 01:12:38,337
+577
+01:12:32,397 --> 01:12:38,320
 o krzywdzenie i o niezasłużenie zły imicz Trzaskowskiego, że to mi się wyklucza.
 
-579
-01:12:38,337 --> 01:12:46,049
-Ale później, kiedy zdałem sobie sprawę, że tu nie chodzi o to, żeby wygrać wybory prezydenckie, ale żeby pokazać się odpowiednio przed swoim elektoratem, no wiemy, genialne.
+578
+01:12:38,320 --> 01:12:46,049
+Ale później, kiedy zdałem sobie sprawę, że tu nie chodzi o to, żeby wygrać wybory prezydenckie, ale żeby pokazać się odpowiednio przed swoim elektoratem, mówię, no genialne.
 
-580
+579
 01:12:46,049 --> 01:12:53,390
 i trochę jednak uderzyć w Sławomira Męcena i pokazać, że może aż tak silny, bo to teraz ostatnio był ten...
 
-581
+580
 01:12:53,390 --> 01:13:00,848
 ten taki wiec, kongres u Grzegorza Brauna, którym zresztą Krzysztof był, zapraszamy do odmawrobienia materiału.
 
-582
-01:13:01,507 --> 01:13:07,177
+581
+01:13:01,490 --> 01:13:07,177
 Musimy chyba nawiązać sojusz z Georgem Brownem. Ja mógł dostępnie swojego smoka.
 
-583
+582
 01:13:07,177 --> 01:13:16,812
 A on będzie latał na tym smoku, na dumną Polską wraz ze swoim szczerbcem, aby ciąć głowy wrogów ojczyzny z zaskoczenia.
 
-584
+583
 01:13:17,470 --> 01:13:25,975
-I palić ich ogniem piekielnym. Że widać, że to spięte z tą rycerzkością, z tą podniosłością to się faktycznie pięknie razem domyka tutaj.
+I palić ich ogniem piekielnym. Widać, że to spięte z tą rycerzkością, z tą podniosłością, to się faktycznie pięknie razem domyka tutaj.
 
-585
-01:13:25,975 --> 01:13:28,827
+584
+01:13:25,975 --> 01:13:28,844
 No i pan Grzegorz jest chyba po prostu panem Grzegorzem.
 
-586
+585
 01:13:29,401 --> 01:13:36,100
 Ten typ tak po prostu ma. Niemniej jednak akcja z kartonowym Rafałem Trzeskowskim i z tym piękna.
 
-587
+586
 01:13:36,100 --> 01:13:41,450
 A ja bardzo się cieszę, że coś, co było do tej pory niedopuszczalne w dużych mediach.
 
-588
+587
 01:13:41,450 --> 01:13:49,364
 Nagle u nas jest normą i po pierwsze człowiek przez parę godzin siedzi u Krzyśka gada, po drugie my analizujemy go.
 
-589
-01:13:49,364 --> 01:13:59,236
+588
+01:13:49,364 --> 01:13:59,253
 Wierzę, że obiektywnie z każdej możliwej strony i ma to tylko te konsekwencje, że Państwo są zainspirowani do dyskusji. O to proszę i do tego namawiamy.
 
-590
-01:13:59,236 --> 01:14:05,463
+589
+01:13:59,253 --> 01:14:05,463
 Kulturalnej, spokojnej dyskusji. Jasne. Zresztą jest takie słynne zdanie, które robi na mnie ogromne wrażenie.
 
+590
+01:14:05,463 --> 01:14:15,453
+Steve Jobs, ten od APLA, miał takiego doradcę, który prowadził go przez wiele lat jako taki coach. I ten człowiek mówił często takie zdanie.
+
 591
-01:14:05,463 --> 01:14:12,162
-Steve Jobs, ten od APLA, miał takiego doradcę, który prowadził go przez wiele lat jako taki coach.
+01:14:15,453 --> 01:14:22,068
+Jeżeli się ze mną nie zgadzasz i się ze mną nie kłócisz, nie spierasz, to jesteś dla mnie bezwartościowy.
 
 592
-01:14:12,162 --> 01:14:22,068
-I ten człowiek mówił często takie zdanie, jeżeli się ze mną nie zgadzasz i się ze mną nie kłócisz, nie spierasz, to jesteś dla mnie bezwartościowy.
-
-593
 01:14:22,692 --> 01:14:30,117
 To jest innymi słowy podziękowanie dla wszystkich tych państwa, którzy bezkompromisowo
 
-594
-01:14:30,117 --> 01:14:35,787
+593
+01:14:30,117 --> 01:14:35,804
 twardo, niesłychanie krytycznie dyskutują z nami w komentarzach.
 
-595
-01:14:35,787 --> 01:14:42,925
+594
+01:14:35,804 --> 01:14:42,925
 ale robiąc to absolutnie z klasą i z merytoryczną wartością również dla innych, do czego cholernie namawiamy, żeby to dalej robić.
 
-596
+595
 01:14:42,925 --> 01:14:48,916
 Tak jest, bo tak jak wspominałem, już czytamy, sprawdzamy, słuchamy też, bo jesteśmy też ciekawi, jak wy to widzicie, bo
 
-597
+596
 01:14:48,916 --> 01:14:58,332
 My jesteśmy jednak zogniskowani już na jakiś rodzaj patrzenia, a czasem fajnie jest to zobaczyć z zupełnie takiej, być może nie...
 
-598
-01:14:58,332 --> 01:15:04,087
+597
+01:14:58,332 --> 01:15:04,103
 subiektywnej, ale zupełnie z innej strony niż ta, na którą my patrzymy. No dobra.
 
-599
-01:15:04,087 --> 01:15:10,297
+598
+01:15:04,103 --> 01:15:10,297
 Stawiamy kropkę przy Grzegorzu Braunie i teraz czas zaryzykować naszą pracą. Popatrzmy, tak.
 
-600
+599
 01:15:10,297 --> 01:15:17,215
-Kto nam tutaj został? Brodaty nam zostały. Jeden z dwóch brodatych. To prawda. Tylko tamten nie farbuje, a ten farbuje.
+Kto nam tutaj został? Brodaty nam zostały. Jeden z dwóch brodatych. Tylko tamten nie farbuje, a ten farbuje.
 
-601
-01:15:17,215 --> 01:15:24,657
+600
+01:15:17,215 --> 01:15:24,674
 Do czego się przyznał. Krzysztof Jakub Stanowski. WAMOS Polska.
 
-602
-01:15:24,657 --> 01:15:30,935
+601
+01:15:24,674 --> 01:15:30,935
 No i jak tu ugryźć ten ciężki orzyk do zgryzienia, żeby nam kto zaraz nie wparował do studia i nas nie prześwięcił?
 
-603
+602
 01:15:30,935 --> 01:15:35,727
 ciężki, twardy, duży, wielki, ale no właśnie, ja myślę, że...
 
-604
-01:15:36,672 --> 01:15:46,527
+603
+01:15:36,672 --> 01:15:46,510
 Jest to też słynne powiedzeniem jej wyrąbane, a będzie ci dane. Bardzo doceniam jak bardzo szybko złagodziłeś to powiedzenie.
 
-605
-01:15:46,527 --> 01:15:51,539
-i sprawiłeś, że nie będzie trzeba go pikować i Czarek nasz montażysta nie będzie się musiał męczyć.
+604
+01:15:46,510 --> 01:15:51,522
+i sprawiłeś, że nie będzie czego pikować i Czarek nasz montażysta nie będzie się musiał męczyć.
 
-606
-01:15:51,539 --> 01:16:01,529
+605
+01:15:51,522 --> 01:16:01,512
 Otóż chcę powiedzieć, że Krzysztof miał pewien zamysł, szalony i genialny, ponieważ na coś takiego nigdy nikt nie wpadł.
 
+606
+01:16:01,512 --> 01:16:01,867
+Cześć!
+
 607
-01:16:01,529 --> 01:16:09,815
-wykorzystać w tak mądry, szalony, wesoły, ale i myślę dla kanału efektywny sposób kampanię prezydencką.
+01:16:02,238 --> 01:16:12,228
+wykorzystać w tak mądry, szalony, wesoły, ale i myślę dla kanału efektywny sposób kampanię prezydencką i poprzez to, że on ma wywalone na to, żeby
 
 608
-01:16:09,815 --> 01:16:15,097
-i poprzez to, że on ma wywalone na to, żeby wygrać.
+01:16:12,228 --> 01:16:21,155
+żeby wygrać, wiele mu uchodzi i patrzy się też na niego przez kompletnie inny filtr.
 
 609
-01:16:15,181 --> 01:16:21,155
-Wiele mu uchodzi i patrzy się też na niego przez kompletnie inny filtr.
-
-610
 01:16:21,155 --> 01:16:29,457
 Chociaż powiem ci, że ta pierwsza debata w Końskich, gdzie wiadomo było, że wszyscy kandydaci jadą tam nieprzygotowani, bo byli nie zaproszeni.
 
-611
+610
 01:16:29,457 --> 01:16:37,237
 Część po prostu rzutem na taśmę tam trafiła. Siedziałem tutaj w studio, komentowaliśmy tę debatę.
 
-612
-01:16:37,237 --> 01:16:43,733
+611
+01:16:37,237 --> 01:16:43,750
 I byłem bardzo ciekaw, jak pójdzie Krzyśkowi. Byłem naprawdę ciekaw, bo wcześniej nie widzieliśmy go w takiej wersji, w takim wydaniu.
 
-613
-01:16:43,733 --> 01:16:53,723
+612
+01:16:43,750 --> 01:16:53,740
 I spodziewałem się, że może być różnie. A uważam, że przez to, że się nie miał przygotowanych tych bon motów, tylko na wiele pytań musiał odpowiedzieć tu i teraz, bo się pojawiły.
 
-614
-01:16:53,723 --> 01:16:54,297
-Dziękujemy.
+613
+01:16:53,740 --> 01:16:54,297
+Dzięki za uwagę!
 
-615
+614
 01:16:54,517 --> 01:17:04,507
 To wypadł naprawdę dobrze. Oczywiście były tam historie typu radiowe Jęki, które się stały. Zrobiliśmy z tego całkiem niezłą montażówkę.
 
-616
+615
 01:17:04,507 --> 01:17:14,227
-On musiał go tam obzobaczyć konkretnie. Natomiast zanim będziemy go tak chwalić pod niebiosa, to trzeba sobie jedno powiedzieć.
+On musiał go tam obsobaczyć konkretnie. Natomiast zanim będziemy go tak chwalić pod niebiosa, to trzeba sobie jedno powiedzieć.
+
+616
+01:17:14,227 --> 01:17:22,681
+Krzysiek nigdy nie brał wcześniej udziału w kampaniach prezydenckich, nie brał udziału w debatach, ale jednak jest pilnym obserwatorem życia politycznego.
 
 617
-01:17:14,227 --> 01:17:22,681
-Krzysiek nigdy nie brał udziału wcześniej w kampaniach prezydenckich, nie brał udziału w debatach, ale jednak jest pilnym obserwatorem życia politycznego.
-
-618
 01:17:22,681 --> 01:17:32,671
 jest stałym komentatorem tego życia w krótkich, celnych formach, choćby na Twitterze, teraz iksie. On jest wytrenowany w tym.
 
-619
-01:17:32,671 --> 01:17:42,037
+618
+01:17:32,671 --> 01:17:42,020
 I nawet jeżeli nie miał takiego przeświadczenia, gdy wchodził na tę debatę, to ja uważam, że on po prostu odpalił się ze swoim potencjałem, które on w sobie ma.
 
-620
-01:17:42,037 --> 01:17:49,883
+619
+01:17:42,020 --> 01:17:49,883
 On po prostu miał gdzieś tam całe to swoje zaplecze i tylko wybierał na szybko, a że jest inteligentnym chłopem, no po prostu serwował i jedno zdanie po drugim.
 
-621
-01:17:49,883 --> 01:17:57,106
-Czyli to nie jest tak, że ja teraz bym Bogotów się nim zachwycać. Boże, facet wyrwany z kontekstu, który nigdy tego nie robił, nagle wchodzi w te buty
+620
+01:17:49,883 --> 01:17:57,157
+Czyli to nie jest tak, że ja teraz bym Bogotów się nim zachwycać. Boże, facet wyrwany z kontekstu, który nigdy tego nie robił, nagle wchodzi w te buty i się...
 
-622
-01:17:57,106 --> 01:18:04,345
+621
+01:17:57,157 --> 01:18:04,362
 Nie, ja też tak świetnie odnajduję. On siedział w tym i to bardzo dawno.
 
-623
-01:18:04,345 --> 01:18:09,357
+622
+01:18:04,362 --> 01:18:09,374
 nagle dostał inną możliwość wykorzystania całej tej swojej amunicji.
 
-624
-01:18:09,357 --> 01:18:15,871
-Ale zmierzam tego, że po prostu dobrze to przełożył. To znaczy był w stanie wziąć te swoje kompetencje, bo przyjmijmy.
+623
+01:18:09,374 --> 01:18:15,871
+Ale zmierzam tego, że po prostu dobrze to przełożył, to znaczy był w stanie wziąć te swoje kompetencje, bo przyjmijmy.
 
-625
+624
 01:18:15,871 --> 01:18:20,883
 Krzysiek jeśli chodzi o formerystyczne jest świetny w metaforach.
 
-626
+625
 01:18:20,883 --> 01:18:30,687
-Ktoś jak potrafi dobrze znaleźć metaforę i to szybko znaleźć metaforę, co widać zresztą oglądacie dziennikarskie zera pewnie też, tam się to często pojawia, znajduje metaforę prostą.
+Ktoś jak potrafi dobrze znaleźć metaforę i to szybko znaleźć metaforę, co widać zresztą oglądacie dziennikarskie Zero pewnie też, tam się to często pojawia. Znajduję metaforę prostą.
 
-627
+626
 01:18:30,687 --> 01:18:36,593
 celną metaforę do trudnego tematu i potrafi to ładnie opowiedzieć
 
-628
+627
 01:18:36,593 --> 01:18:42,635
 Tak naprawdę czasem w 20 sekund tą jedną metaforą i tam już więcej nie trzeba. I mówi prostym językiem.
 
+628
+01:18:42,635 --> 01:18:49,705
+Mówi rzeczywiście, tutaj bym absolutnie siedząc z nim w pokoju, odradzał jakiekolwiek wolty.
+
 629
-01:18:42,635 --> 01:18:52,068
-Mówi rzeczywiście, tutaj bym absolutnie siedząc z nim w pokoju, odradzał jakiekolwiek wolty, na przykład próbę dodatkowego
+01:18:49,705 --> 01:18:55,190
+Próbę dodatkowego umazurkowienia się, intelektualizowania.
 
 630
-01:18:52,068 --> 01:18:57,451
-umazurkowienia się, intelektualizowania. Nie, nie, nie, to bym tak. Ale są różni.
+01:18:55,190 --> 01:19:01,822
+Nie, nie, nie. Popłaki pracują razem, ale są różni. I on cisnął bym, zostań tak jak jesteś, mów tym prostym językiem.
 
 631
-01:18:57,451 --> 01:19:06,209
-I on cisnął bym, zostań tak jak jesteś, mów tym prostym językiem i wiesz gdzie bym go pilnował? Pilnowałbym żeby ani na milimetr
+01:19:01,822 --> 01:19:09,922
+I wiesz gdzie bym go pilnował? Pilnowałbym, żeby ani na milimetr nie przesunął tej delikatnej granicy ironii, którą używam.
 
 632
-01:19:06,209 --> 01:19:14,866
-nie przesunął tej delikatnej granicy ironii, którą używa. Żeby nie był za poważny. Tak, ale jest jeszcze jedna rzecz. Zobacz, on kiedy...
+01:19:09,922 --> 01:19:17,903
+Tak, ale jest jeszcze jedna rzecz. Zobacz, kiedy on mówi o książce Rafała Trzaskowskiego.
 
 633
-01:19:14,866 --> 01:19:24,738
-mówi o książce Rafała Trzaskowskiego, że tam nie ma większego słucha niż on, albo o innych kandydatach. Mówi ironicznie,
+01:19:18,832 --> 01:19:24,738
+Nie ma większego słucha niż on albo o innych kandydatach. Mówi ironicznie.
 
 634
-01:19:24,738 --> 01:19:30,087
+01:19:24,738 --> 01:19:30,121
 ale robi to tak na płasko.
 
 635
-01:19:30,087 --> 01:19:37,327
+01:19:30,121 --> 01:19:37,327
 Dla mnie w tym momencie wybór jest oczywisty. Wybór może być tylko jeden. Książka Rafał.
 
 636
-01:19:37,327 --> 01:19:40,887
+01:19:37,327 --> 01:19:40,870
 strona 38. Pani redaktor pyta.
 
 637
@@ -2581,15 +2581,15 @@ Pamiętasz słowo emfaza? Jakiś takiej emfazy zadencia i zadufania w sobie.
 
 645
 01:20:40,523 --> 01:20:47,948
-I tego moim zdaniem, bo wiesz, kampania się zaczyna nakręcać, może być coraz więcej ataków, może być coraz więcej stresu, coraz mniej czasu na sen.
+I tego moim zdaniem, bo kampania się zaczyna nakręcać, może być coraz więcej ataków, może być coraz więcej stresu, coraz mniej czasu na sen.
 
 646
-01:20:47,948 --> 01:20:57,213
+01:20:47,948 --> 01:20:57,196
 Trzeba pilnować, żeby to zostało na tym poziomie. Słuchaj, ty podobno masz kontakt do Adama Hoffmana, więc ewentualnie możesz podpowiedzieć.
 
 647
-01:20:57,213 --> 01:21:04,469
-Natomiast oczywiście w kategorii, jak oceniliśmy Janne Seneszyń, ciężko jest ocenić Krzyśka jako
+01:20:57,196 --> 01:21:04,469
+Natomiast oczywiście w kategorii, jak oceniliśmy Janne Seneszyń, ciężko jest ocenić Krzyśka jako...
 
 648
 01:21:04,469 --> 01:21:12,535
@@ -2597,38 +2597,38 @@ faktycznego kandydata i to, co robi, bo wiemy, że część rzeczy, które robi,
 
 649
 01:21:12,535 --> 01:21:22,154
-akcja z tym ile spółci i mówisz, że są cztery, to wiadomo, że lecisz po bandzie. Jednocześnie w tym wszystkim
+akcja z tym ile jest płci i mówisz, że są cztery, to wiadomo, że lecisz po bandzie. Jednocześnie w tym wszystkim
 
 650
 01:21:22,323 --> 01:21:28,718
 Uważam, że bardzo to fajnie wyszło. To jest jedna z najbardziej cytowanych rzeczy z tej debaty i trzeba mieć...
 
 651
-01:21:28,718 --> 01:21:34,186
+01:21:28,718 --> 01:21:34,203
 Mężczyzna z jajami, mężczyzna bez jaj i fajna kobieta i kobieta z jajami. To może zobaczmy.
 
 652
-01:21:34,186 --> 01:21:40,750
+01:21:34,203 --> 01:21:40,750
 Ja rozpoznaję minimum 4 płycie, to znaczy pierwsza, pierwszy wariant jest następujący.
 
 653
-01:21:40,750 --> 01:21:48,023
+01:21:40,750 --> 01:21:47,872
 facet z jajami i tutaj przykładem jest na przykład Szymon Kołownia, który przyszedł na debatę, co ja bardzo szanuję.
 
 654
-01:21:48,023 --> 01:21:56,714
+01:21:47,872 --> 01:21:56,731
 Druga kategoria to facet bez jaj i tutaj przykładem jest z kolei Rafał Trzaskowski, który nie przyszedł na debatę, czego do końca nie szanuje.
 
 655
-01:21:56,714 --> 01:22:05,995
+01:21:56,731 --> 01:22:05,995
 Trzecia kategoria to jest normalna, fajna kobieta. Tutaj przykładem jest na przykład pani marszałek Magdalena Biejat, której akurat nie ma.
 
 656
-01:22:05,995 --> 01:22:15,293
-I kategoria 4, czyli kobieta z jajami i tutaj przykładem jest Pani Joanna Senyszyn. Bardzo gratuluję Pani.
+01:22:05,995 --> 01:22:15,310
+I kategoria czwarta, czyli kobieta z jajami i tutaj przykładem jest Pani Joanna Senyszyn. Bardzo gratuluję Pani.
 
 657
-01:22:15,293 --> 01:22:21,048
+01:22:15,310 --> 01:22:21,048
 Wbrew pozorom nie oznacza to, że potrzebujemy czterech toalet we wszystkich budynkach wystarczą.
 
 658
@@ -2640,7 +2640,7 @@ I uważam, że to świetnie podsumowuje, bo masz znowu prosty trik.
 Ale jednocześnie uderzasz w Rafała Trzaskowskiego, dając mu pstryczka w nos, że nie przyszedł.
 
 660
-01:22:31,713 --> 01:22:41,264
+01:22:31,713 --> 01:22:41,247
 I mimo wszystko chwalisz trochę Szymona Hołowni i dajesz mu pewną rzecz, taką trochę pogłaskania, że przyszedł. Chwalisz trochę Magdalenę Biejadżę, fajna.
 
 661
@@ -2648,11 +2648,11 @@ I mimo wszystko chwalisz trochę Szymona Hołowni i dajesz mu pewną rzecz, tak�
 A jednocześnie przerzucasz na tej lewicy całą sympatię na Joanny Senyszyn mówiąc, że kobieta z jajami.
 
 662
-01:22:49,870 --> 01:22:56,890
-pod warunkiem oczywiście, że ktoś w to zagra, ale już ustaliliśmy, że pani Seny Szyn gra z Krzyśkiem w tę fajną grę i mogą sobie tego ping ponga
+01:22:49,870 --> 01:22:57,059
+Pod warunkiem oczywiście, że ktoś w to zagra, ale już ustaliliśmy, że pani Senyszyn gra z Krzyśkiem w tę fajną grę i mogą sobie tego pingponga robić.
 
 663
-01:22:56,890 --> 01:23:06,070
+01:22:57,059 --> 01:23:06,070
 Trzeba przyznać, że tam na tej debacie sąsiedztwo im się udało. Byli blisko siebie fizycznie i też ta więź, która się wytworzyła, była dość dobrze wykorzystana.
 
 664
@@ -2688,11 +2688,11 @@ ale jednak przesunięty na stronę powagi.
 To może to brutalne, ale obawiam się, że większość ludzi może nie zrozumieć tego żartu, bo jest jakaś część ludzi, która nie wie, kim jest Krzysztof Stanowski. Nie ma zielonego pojęcia.
 
 672
-01:24:09,082 --> 01:24:17,722
+01:24:09,082 --> 01:24:17,705
 Bo nie oglądają Tioba, bo nie załapali się na to, bo nie lubią sportu. I jak oglądałem Krzyśka na tej debacie w Końskich.
 
 673
-01:24:17,722 --> 01:24:22,733
+01:24:17,705 --> 01:24:22,750
 Widziałem, że czasem odpowiada tak bardziej poważnie. To patrzyłem na to i myślałem sobie...
 
 674
@@ -2700,11 +2700,11 @@ Widziałem, że czasem odpowiada tak bardziej poważnie. To patrzyłem na to i m
 Kurcze, część ludzi to kupi, część ludzi powie, dobrze chłop gada, ma mój głos.
 
 675
-01:24:28,522 --> 01:24:36,554
+01:24:28,522 --> 01:24:36,537
 Więc jeśli Krzysiek nie chce, żeby na niego głosowali i że jeśli nie chce, żeby dawać komuś taki... No bo ustaliliśmy już, że jest ten problem, że mamy...
 
 676
-01:24:36,554 --> 01:24:44,131
+01:24:36,537 --> 01:24:44,131
 Trochę tych, którzy robią performance, trochę poważnych. I przez to myślę, że zaznaczanie, po której stronie jesteśmy,
 
 677
@@ -2721,7 +2721,7 @@ takiego vox populi i do wysysania, syntezowania trendów.
 
 680
 01:25:11,806 --> 01:25:20,294
-Ktoś powie, że go tutaj chwalimy, ale kurde, no takie są fakty, jeśli chodzi o sukces tego kanału. Z jakiegoś powodu ten kanał jest w tym, a nie innym miejscu. I w związku z tym...
+Ktoś powie, że go tutaj chwalimy, ale kurde, takie są fakty, jeśli chodzi o sukces tego kanału. Z jakiegoś powodu ten kanał jest w tym, a nie innym miejscu. I w związku z tym...
 
 681
 01:25:20,615 --> 01:25:30,217
@@ -2732,15 +2732,15 @@ Może zdarzyć się pierwszy raz w historii tego kraju, że podczas kolejnych de
 ale przed telewizorem, czyli w osobieniu jednego człowieka, głos nas wszystkich.
 
 683
-01:25:36,005 --> 01:25:41,557
+01:25:36,005 --> 01:25:41,388
 które to głosy nie są w czasie tej debaty słyszane, bo wypowiadane są w zaciszu domowych ognisk.
 
 684
-01:25:41,557 --> 01:25:51,547
-A nagle teraz pojawia się tam ktoś, kto tym głosem będzie. Ale nie po to, żeby przekonywać do siebie, tylko być może w naszym imieniu, bo ma czuja do tego, by to było.
+01:25:41,388 --> 01:25:51,344
+A nagle teraz pojawia się tam ktoś, kto tym głosem będzie, ale nie po to, żeby przekonywać do siebie, tylko być może w naszym imieniu, bo ma czuja do tego,
 
 685
-01:25:51,547 --> 01:25:58,263
+01:25:51,344 --> 01:25:58,263
 żeby złapować te absurdy i ich wszystkich punktować. I liczę bardzo na tę rolę.
 
 686
@@ -2749,23 +2749,23 @@ I mam nadzieję, że właśnie to jest tym głównym celem. Ale to myślę, że 
 
 687
 01:26:07,004 --> 01:26:16,471
-i, także aż im wpięty pójdzie, kiedy poważniej to poważniej, kiedy trzeba się licytować na lotniskowce i, kiedy wybudujemy elektrownię atomową to też,
+i, także aż im wpięty pójdzie, kiedy, poważniej to poważniej, kiedy trzeba się licytować na lotniskowce, i, kiedy wybudujemy, elektrownię atomową to też,
 
 688
-01:26:16,471 --> 01:26:26,073
-dla ciebie czytać literaturę piękną autorstwa Rafała Trzaskowskiego. Tak jest, więc myślę, że to jest bardzo ciekawy eksperyment. Tak naprawdę pamiętam, że chyba była ta...
+01:26:16,471 --> 01:26:21,483
+dla ciebie czytać literaturę piękną autorstwa Rafała Trzaskowskiego.
 
 689
-01:26:26,073 --> 01:26:34,139
-Polska partia przyjaciół piwa kiedyś to chyba Janusz Rewiński, o ile dobrze pamiętam. Natomiast na taką myślę skalę i w takim...
+01:26:21,483 --> 01:26:31,405
+Tak jest, więc myślę, że to jest bardzo ciekawy eksperyment. Tak naprawdę pamiętam, że chyba była ta Polska partia przyjaciół piwa kiedyś, to chyba Janusz Rewiński, o ile dobrze pamiętam.
 
 690
-01:26:34,139 --> 01:26:40,822
-Tylko Janusz Lewiński, pamiętasz, ta sprawa różniła się tym, że on naprawdę chciał wejść w tę politykę, wszedł i działał.
+01:26:31,405 --> 01:26:40,788
+Natomiast na taką myślę skalę i w takim... Tylko Janusz Lewiński, pamiętasz, on, ta sprawa różniła się tym, że on naprawdę chciał wejść w tę politykę, wszedł i działał.
 
 691
-01:26:40,822 --> 01:26:48,128
-A tutaj wiemy, że Grzegorz ich nie chce i dzięki Bogu, dlatego że to by się z kanałem chyba ciężko skleiło to po pierwsze, a po drugie.
+01:26:40,788 --> 01:26:48,128
+A tutaj wiemy, że Grzegorz ich nie chce. Dzięki Bogu, dlatego że to by się z kanałem chyba ciężko skleiło to po pierwsze, a po drugie.
 
 692
 01:26:48,128 --> 01:26:57,747
@@ -2781,11 +2781,11 @@ Jak to nie? To się nie sklejało, tak? No właśnie. No to miejmy nadzieję, zn
 
 695
 01:27:16,073 --> 01:27:22,553
-I to chyba tyle możemy Krzyśkowi polecić. Rób tak jak dalej, mniej E i Y i kontroluj to. Tak jest.
+I to chyba tyle możemy Krzysiekowi polecić. Rób tak jak dalej, mniej E i Y i kontroluj to. Tak jest.
 
 696
 01:27:22,553 --> 01:27:31,835
-No i jak się uda, ale to chyba nie od niego zależy, żeby niekoniecznie ustawiać dnia w sądzie podczas rozprawy z kim tam była ta rozprawa.
+No i jak się uda, ale to chyba nie od niego zależy, żeby niekoniecznie ustawiać dnia w sądzie podczas rozprawy, nie wiem z kim tam była ta rozprawa.
 
 697
 01:27:31,835 --> 01:27:41,521
@@ -2797,14 +2797,14 @@ I myślę, że ważne jedzenie jest istotne, to znaczy pomiędzy, bo z tego co w
 
 699
 01:27:49,705 --> 01:27:57,873
-No i to myślę, że tyle możemy naszemu pryncypałowi tutaj opowiedzieć. Jak to się mawia w telewizji, mamy to.
+No i to myślę, że tyle możemy naszemu pryncypałowi tutaj opowiedzieć. Proszę państwa, jak to się mawia w telewizji, mamy to.
 
 700
 01:27:57,873 --> 01:28:03,813
 Przeszliśmy przez wszystkich kandydatów. Miejmy nadzieję, oczywiście sztaby zachęcamy. Sprawdzajcie, ja tylko dodam.
 
 701
-01:28:04,488 --> 01:28:14,292
+01:28:04,488 --> 01:28:14,309
 A wy się domyślajcie, że napisał do mnie ostatnio jeden z kandydatów z podziękowaniem za nasz odcinek i że obejrzał, że bierze pewne rzeczy do siebie.
 
 702
@@ -2812,11 +2812,11 @@ A wy się domyślajcie, że napisał do mnie ostatnio jeden z kandydatów z podz
 Także widać ktoś. Jest nam miło, ktoś rzeczywiście zerka. Ale przede wszystkim państwa głosy są dla nas ważne.
 
 703
-01:28:22,223 --> 01:28:27,708
+01:28:22,223 --> 01:28:27,691
 to, że mamy to forum w komentarzach i, że tam naprawdę jest mnóstwo spostrzeżeń to jest dla nas niesłychanie.
 
 704
-01:28:27,708 --> 01:28:33,243
+01:28:27,691 --> 01:28:33,243
 niesłychanie cenne, przy tym przypominam YouTube, cholernie pojemne medium.
 
 705
@@ -2832,12 +2832,12 @@ To też jest ważne, bo to jest rozmowa o tym, czego normalnie nie widać, a efe
 o zdolnościach prowadzenia sporu, czyli erystycznych, o zdolnościach związanych z umiejętnościami oratorskimi, czyli przemawiania.
 
 708
-01:28:54,860 --> 01:29:03,938
+01:28:54,860 --> 01:29:03,854
 socjotechnikami, argumentowania, tego wszystkiego ludzie się uczą i bez tego tych debat nie byłoby na odpowiedniej jakości, a nam zależy, żeby one na ten poziom weszły.
 
 709
-01:29:03,938 --> 01:29:09,946
-Bo suma sumarum to będzie lepiej dla wszystkich nas, jak ten poziom tej debaty będzie wyższy.
+01:29:03,854 --> 01:29:09,946
+Bo summa sumarum to będzie lepiej dla wszystkich nas, jak ten poziom tej debaty będzie wyższy.
 
 710
 01:29:09,946 --> 01:29:18,181
@@ -2853,7 +2853,7 @@ Jakże bliska jest mi ta filozofia. Szacunek manualny. Dziękuję bardzo. Dzięk
 
 713
 01:29:36,575 --> 01:29:45,248
-Witaminy Omega 3 i a szwaganda marki Allnutrition dostępne w sklepie SFD i wybranych aptekach z kodem 0 zgarnij 10% rabatu w SFD.
+Witaminy Omega 3 i Ashwagandha marki Allnutrition dostępne w sklepie SFD i wybranych aptekach. Z kodem 0 zgarnij 10% rabatu w SFD.
 
 714
 01:29:45,350 --> 01:29:55,340
