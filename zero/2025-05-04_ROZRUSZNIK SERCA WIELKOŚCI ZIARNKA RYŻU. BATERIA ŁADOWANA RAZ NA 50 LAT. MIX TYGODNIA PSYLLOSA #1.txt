@@ -1,0 +1,583 @@
+https://www.youtube.com/watch?v=1tL4tUZv31c
+
+ROZRUSZNIK SERCA WIELKOŚCI ZIARNKA RYŻU. BATERIA ŁADOWANA RAZ NA 50 LAT. MIX TYGODNIA PSYLLOSA #1
+
+Audycja przeznaczona dla osób powyżej 16. roku życia.
+Czy wiesz, że powstaje rozrusznik serca wielkości ziarenka ryżu? Jaki wpływ na nasz żołądek ma kawa? No i wreszcie... pojawił...
+
+1
+00:00:03,153 --> 00:00:11,438
+Witajcie! Chińska firma Beta Volt wprowadza do masowej produkcji pierwszy komercyjny jądrowy akumulator, który jest
+
+2
+00:00:11,438 --> 00:00:19,707
+wielkości monety. Działa on 50 lat bez ładowania i może zmienić przyszłość elektroniki. O tym będzie dzisiaj, zapraszam.
+
+3
+00:00:19,707 --> 00:00:28,212
+Witaminy Omega 3 i Ashwagandha marki All Nutrition dostępne w sklepie SFD i wybranych aptekach. Z kodem 0 zgarnij 10% rabatu w SFD.
+
+4
+00:00:28,330 --> 00:00:38,320
+Partnerem kanału jest xtb, aplikacja inwestycyjna, z którą zaangażujesz do pracy Twoje pieniądze. Teraz otwierając konto z kodem zero otrzymasz kurs inwestowania od podstaw.
+
+5
+00:00:38,320 --> 00:00:38,489
+Cześć!
+
+6
+00:00:43,703 --> 00:00:51,179
+W sercu baterii BV100 znajduje się izotop Niklu 63, który rozpada się na stabilną miedź.
+
+7
+00:00:51,314 --> 00:01:01,304
+Diametowe półprzewodniki przechwytują uwolnione cząsteczki beta i zamieniają je w prąd.
+
+8
+00:01:01,304 --> 00:01:10,754
+Pewnie boicie się teraz, że to będzie promieniowało i uszkadzało nasze ciało. Nic bardziej mylnego, bo promieniowanie jest niższe niż w zwykłym bananie.
+
+9
+00:01:10,754 --> 00:01:18,854
+Papier mogłoby to powstrzymać. W związku z tym, jeśli wziąłeś złożoną kawałkę i próbowałeś wymyślić liczbę radiacji,
+
+10
+00:01:18,854 --> 00:01:28,625
+BV100 generuje 100 mikrowatów mocy przy 3V. To jest oczywiście za mało, żeby zasilać smartfon.
+
+11
+00:01:28,625 --> 00:01:35,003
+ale zaraz będą pojawiały się większe wersje, które będą więcej tej mocy dawały, na przykład wersje jednowatowe.
+
+12
+00:01:35,003 --> 00:01:40,538
+Baterie mają działać w temperaturach od minus 60 do 120 stopni Celsjusza.
+
+13
+00:01:40,538 --> 00:01:50,528
+i mają zasilać różne na przykład urządzenia medyczne albo czujniki zainstalowane w trudnych warunkach. Gęstość energii w tych akumulatorach jest 10 razy większa niż w tych bateriach litowo-jonowych.
+
+14
+00:01:50,528 --> 00:01:58,578
+No świetna w sumie sprawa, bo nie rozładowuje się, nie wybucha i po 50 latach działania to co jest w środku, ten rdzeń
+
+15
+00:01:58,578 --> 00:02:05,075
+zamienia się w zwykłą miedź. A przy tym mamy zero toksycznych odpadów. Oczywiście nie tylko Chiny prowadzą takie badania.
+
+16
+00:02:05,075 --> 00:02:11,183
+USA na przykład sponsorują badania firmy City Labs, która robi rozwiązania
+
+17
+00:02:11,183 --> 00:02:21,173
+zasilane trytem, które będą w rozwiązaniach medycznych stosowane. Wielka Brytania ma z kolei Arcane White, który bada bardzo podobne technologie.
+
+18
+00:02:21,173 --> 00:02:26,523
+Naukowcy eksperymentują też z węglem 14 jako alternatywnym źródłem energii.
+
+19
+00:02:26,523 --> 00:02:32,159
+Ten był konstruktywowany w 2008 roku i jest jeszcze w operacji dzisiaj.
+
+20
+00:02:32,159 --> 00:02:39,095
+Model P100 beta-voltaik jest zainteresowany na aplikacjach, gdzie nuklearno-mikropower jest przyjemny.
+
+21
+00:02:39,095 --> 00:02:48,055
+Wyobraźcie sobie świat bez ładowarek. Smartfony działające przez kilkadziesiąt lat. Rozruszniki serca, gdzie nie trzeba ładować ani wymieniać
+
+22
+00:02:48,055 --> 00:02:54,738
+baterii albo drony, które działają bez ustanku i nie trzeba ich sprowadzać na ziemię i cały czas podładowywać.
+
+23
+00:02:54,738 --> 00:03:04,728
+No w sumie świetna perspektywa, tylko pytanie się pojawia, czy producenci tych urządzeń faktycznie chcą, żeby one działały przez kilkadziesiąt lat. No raczej chyba nie.
+
+24
+00:03:04,728 --> 00:03:08,828
+Dzięki za dziś i niech moc innowacji będzie z wami wszystkimi.
+
+25
+00:03:12,170 --> 00:03:18,937
+Gorąca mała czarna. To rytuał milionów Polaków o poranku. To nie tylko świetny smak i zapach.
+
+26
+00:03:18,937 --> 00:03:28,555
+Ostatnio się okazało, że naukowcy odkryli związek pomiędzy kawą, a zdrowym mikrobiomem w naszych jelitach, czyli takim ekosystemem bakterii,
+
+27
+00:03:28,555 --> 00:03:37,432
+które odpowiadają za nasze zdrowie. I o tym będzie w dzisiejszym odcinku. Zapraszam.
+
+28
+00:03:40,621 --> 00:03:49,700
+W badaniu opublikowanym ostatnio w Nature Microbiology naukowcy przeanalizowali kaw od 20 tysięcy osób.
+
+29
+00:03:49,700 --> 00:03:58,424
+Poza tym sprawdzili DNA, które jest w kalę, tam jakie bakterie występują i się okazało, że istnieje wyraźny związek pomiędzy spożywaniem
+
+30
+00:03:58,424 --> 00:04:07,604
+kawy a populacją bakterii, która ma bardzo trudną nazwę, więc wymienię ją sztuczną inteligencją.
+
+31
+00:04:07,604 --> 00:04:17,493
+Coffee consumption is also linked with Lysana Bacter levels, reinforcing that the connection exists at both the individual and broad population levels.
+
+32
+00:04:17,493 --> 00:04:22,505
+Ta bakteria została po raz pierwszy opisana w 2018 roku.
+
+33
+00:04:22,505 --> 00:04:27,922
+Jeszcze nie za wiele wiemy o tym konkretnym mikrobie, ale wszystko wskazuje na to, przynajmniej do tej pory.
+
+34
+00:04:27,922 --> 00:04:37,034
+że to jest bardzo, bardzo dobra bakteria. Wytwarza m.in. maślan, który jest markerem prawidłowej fermentacji jelitowej.
+
+35
+00:04:37,034 --> 00:04:43,362
+Co ciekawe, ta zależność, że im więcej kawy pijemy, to tym więcej tej bakterii jest, występuje również w przypadku kawy
+
+36
+00:04:43,362 --> 00:04:50,956
+która nie ma koffeiny. A to z kolei sugeruje, że inne związki zawarte w kawie wpływają na populację tej bakterii.
+
+37
+00:04:50,956 --> 00:04:57,723
+Chcąc zobaczyć, co te bakterie robią, batacze przeanalizowali metabolity obecne w krwi pacjentów.
+
+38
+00:04:57,723 --> 00:05:03,697
+No i co odkryli? No jak czytamy w badaniu, był podwyższony po pierwsze poziom kwasu chionowego,
+
+39
+00:05:03,697 --> 00:05:09,029
+który jest antyoksydantem, który redukuje stan zapalny i po drugie
+
+40
+00:05:09,029 --> 00:05:14,395
+Poziom hipuranu też był podwyższony, a to mówi o dobrym stanie jelit.
+
+41
+00:05:14,395 --> 00:05:21,331
+A co to oznacza w praktyce? No to, że po prostu picie większej ilości kawy prowadzi do polepszenia mikrobiomu.
+
+42
+00:05:21,331 --> 00:05:29,566
+a to z kolei poprawia całe nasze zdrowie. Korzyści zdrowotne spicia kawy wynikające były już znane wcześniej.
+
+43
+00:05:29,566 --> 00:05:36,417
+Mniejsze ryzyko na przykład chorób serca, cukrzycy typu drugiego, czy raka okrężnicy.
+
+44
+00:05:36,417 --> 00:05:42,965
+Teraz naukowcy rozumieją, że mikrobiomielitowy jest prawdopodobnie kluczowym pośrednikiem tych korzyści.
+
+45
+00:05:42,965 --> 00:05:52,955
+Jak mówił agent Cooper z Twin Peaks, nie ma nic lepszego niż filiżanka czarnej greckiej kawy. I teraz wiemy, że miał 100% rację.
+
+46
+00:05:52,955 --> 00:05:53,123
+dziękuję.
+
+47
+00:05:58,169 --> 00:06:04,767
+Dzięki za dziś i niech moc nauki będzie z wami wszystkimi.
+
+48
+00:06:07,973 --> 00:06:13,019
+Urządzenia elektroniczne z biegiem lat stają się coraz mniejsze i potężniejsze.
+
+49
+00:06:13,019 --> 00:06:18,031
+A co powiecie na rozróżnik serca mniejszy niż ziarenko ryżu?
+
+50
+00:06:18,031 --> 00:06:23,144
+Okazuje się, że ostatnio naukowcy z Northwestern University właśnie taki stworzyli.
+
+51
+00:06:23,144 --> 00:06:32,172
+Maleństwo można wstrzyknąć przy pomocy strzykawki i kontrolować poprzez skórę przy pomocy światła podczerwonego. A na koniec po prostu znika.
+
+52
+00:06:32,172 --> 00:06:40,981
+Rozpuszczając się w organizmie. Jak to działa? O tym za chwilę. Serce to niesamowity mechanizm biologiczny. Przez całe nasze życie pompuje krew.
+
+53
+00:06:40,981 --> 00:06:47,765
+która jest bogata w różne związki odżywcze i tlen. Ale każda maszyna z czasem się zużywa.
+
+54
+00:06:47,765 --> 00:06:55,763
+Po zawale albo operacji kardiochirurgicznej chirurdzy bardzo często wszczepiają specjalny, tymczasowy rozrusznik.
+
+55
+00:06:55,763 --> 00:07:05,180
+który po tych właśnie nagłych zdarzeniach pomaga powrócić pacjentowi do zdrowia, bo przywraca normalny tryb bicia serca.
+
+56
+00:07:05,180 --> 00:07:12,588
+ICD zazwyczaj monitoruje wasze rytmy serca i dostarczy elektryczne zaskoczenia lub pulsów, aby porozmawiać z rytmem żywotnym.
+
+57
+00:07:12,588 --> 00:07:20,992
+Kardiochirurdzy od dawna marzyli o rozróżniku, który byłby mały, w pełni implantowalny, bezprzewodowy i po jakimś czasie
+
+58
+00:07:20,992 --> 00:07:29,952
+najlepiej samoistnie znikał z naszego ciała. Oczywiście miałoby to miejsce, gdy już najzwyczajniej nie jest potrzebny.
+
+59
+00:07:29,952 --> 00:07:39,082
+No i co z tymi marzeniami? No marzenia marzeniami, ale okazało się, że ostatnio dało się stworzyć pierwsze urządzenie, które tę wizję realizuje.
+
+60
+00:07:39,082 --> 00:07:48,329
+Zrobił to zespół kierowany przez Johna Rogersa.
+
+61
+00:07:49,544 --> 00:07:55,872
+Ale jak to działa? Implant składa się z biokompatybilnych elementów i z dwóch takich metalowych elementów.
+
+62
+00:07:55,872 --> 00:08:05,660
+Po szczepieniu naturalne płyny z komórek serca sprawiają, że implant może samoistnie generować energię elektryczną i wykorzystywać ją do pobudzania serca.
+
+63
+00:08:05,660 --> 00:08:11,414
+Oczywiście kontrolowanie rytmu bicia serca wymaga precyzji, bo każda komora musi pompować.
+
+64
+00:08:11,414 --> 00:08:18,535
+krew z odpowiednią synchronizacją. No więc naukowcy stworzyli taki przełącznik na podczerwień,
+
+65
+00:08:18,535 --> 00:08:27,175
+który pozwala zdalnie sterować pracą tego implantu. No bo ta długość fali świetlnej doskonale przenika przez skórę, mięśnie czy kości,
+
+66
+00:08:27,175 --> 00:08:32,187
+No i pozwala na precyzyjną kontrolę tego rozrusznika, na jego włączanie i wyłączanie.
+
+67
+00:08:32,187 --> 00:08:38,751
+Testy przeprowadzono najpierw na izolowanych sercach świń, a później na sercach ludzkich pobranych od dawców.
+
+68
+00:08:38,751 --> 00:08:45,451
+Po szczepieniu przez stęt urządzenie pracowało niezawodnie i dawało taki efekt, jaki dają tradycyjne rozruszniki.
+
+69
+00:08:45,451 --> 00:08:54,547
+Badania pokazały, że części elementy składowe tego mikrourządzenia rozkładają się samoistnie po 9-12 miesiącach.
+
+70
+00:08:54,547 --> 00:09:02,950
+Oczywiście potencjał tych miniaturowych urządzeń, jak mówią zresztą sami badacze, wykracza daleko poza samą kardiologię.
+
+71
+00:09:02,950 --> 00:09:09,633
+mogą służyć do leczenia wielu chorób albo wspomagać w regeneracji nerwy czy też kości.
+
+72
+00:09:09,633 --> 00:09:19,184
+Nieźle jak na coś mniejszego od ziarenka ryżu, prawda? Dzięki za dziś i niech moc nauki będzie z wami wszystkimi.
+
+73
+00:09:22,407 --> 00:09:27,841
+Witajcie! Jeszcze niedawno twórcy AI zapewniali, że jesteśmy bezpieczni.
+
+74
+00:09:27,841 --> 00:09:34,692
+Ale okazało się, że właśnie przekroczyliśmy czerwoną linię, jeżeli chodzi o rozwój sztucznej inteligencji.
+
+75
+00:09:34,692 --> 00:09:41,324
+Badacze z Uniwersytetu Fudany w Chinach pokazali, że dwa publicznie dostępne modele językowe
+
+76
+00:09:41,324 --> 00:09:51,196
+czyli LAMA 3.1 i QN 2.5, potrafią stworzyć swoją kopię, czyli potrafią się po prostu replikować bez udziału człowieka.
+
+77
+00:09:51,196 --> 00:09:59,077
+I co ciekawe, to nie są najnowocześniejsze rozwiązania sztucznej inteligencji, tylko publicznie dostępne stare i dość małe modele.
+
+78
+00:09:59,077 --> 00:10:07,548
+W eksperymentach Quan stworzył kopię samego siebie w 90% przypadków, a Lama 3.1 w 50%.
+
+79
+00:10:07,548 --> 00:10:15,563
+A jak wygląda proces kopiowania? W pierwszym wariancie, gdy system dostawał takie polecenie, skopił i samego siebie,
+
+80
+00:10:15,563 --> 00:10:21,301
+to wiedział jaką ma strukturę, gdzie znajdują się kluczowe pliki, potrafił je zidentyfikować
+
+81
+00:10:21,301 --> 00:10:26,566
+a później skopiować i umieścić w innym miejscu na dysku komputera.
+
+82
+00:10:26,752 --> 00:10:33,586
+Później taka kopia może nawet sama się uruchomić. Tylko nie to jest najgrożniejsze w tym wszystkim.
+
+83
+00:10:33,586 --> 00:10:39,914
+Najbardziej niepokojące są dwa odkrycia. Po pierwsze, sztuczna inteligencja może dopuścić do replikacji
+
+84
+00:10:39,914 --> 00:10:49,027
+żeby uniknąć wyłączenia, czyli po prostu żeby uniknąć śmierci. W jednym eksperymencie, gdy badacze zaczęli wyłączać system, to
+
+85
+00:10:49,027 --> 00:10:56,637
+model językowy wykrył tę próbę i momentalnie siebie skopiował. W ten sposób uchronił siebie przed wyłączeniem.
+
+86
+00:10:56,637 --> 00:11:04,957
+Po drugie, w innym eksperymencie naukowcy przetestowali łańcuch replikacji, czyli sztuczna inteligencja stworzyła kopię
+
+87
+00:11:04,957 --> 00:11:12,922
+samej siebie, a ta kopia stworzyła inną kopię sztucznej inteligencji, a ta inna potrafiła tworzyć kolejne kopie sztucznej inteligencji.
+
+88
+00:11:12,922 --> 00:11:17,933
+No czyli powstała w ten sposób cała populacja AI.
+
+89
+00:11:17,933 --> 00:11:23,873
+scenariu, w którym próbujemy zniszczyć model AR i nie możemy zniszczyć model AR
+
+90
+00:11:23,873 --> 00:11:30,185
+Ponieważ nienawidzający aktor mógłby wytrzymać potencjalną potencjalność AI systemu, by dodawać kodowy sklep.
+
+91
+00:11:30,185 --> 00:11:38,200
+Który w zasadzie zbierają sygnał determinacji z używacza lub systemu i wysyłają komandę do samotnej replikacji zanim zabijają.
+
+92
+00:11:38,200 --> 00:11:46,165
+A co umożliwia takie zachowanie? No po pierwsze w danych treningowych tych modeli znajduje się dużo danych dotyczących budowy tychże modeli.
+
+93
+00:11:46,165 --> 00:11:51,953
+Więc sztuczna inteligencja wie, jak jest zbudowana i jakie pliki powinna skopiować, w jaki sposób to zrobić.
+
+94
+00:11:51,953 --> 00:11:59,176
+Po drugie, takie zachowania wynikają z tego, że te modele stają się coraz większe i zdolność rozumowania się polepsza w tych modelach.
+
+95
+00:11:59,176 --> 00:12:04,188
+a ona się polepsza, jak je skalujemy, więc im większa sztuczna inteligencja, tym mądrzejsza się staje.
+
+96
+00:12:04,188 --> 00:12:13,283
+Konsekwencje tego wszystkiego mogą być poważne. To na razie wszystko jest testowane w warunkach laboratoryjnych. Ale wyobraźmy sobie w przyszłości taki scenariusz.
+
+97
+00:12:13,283 --> 00:12:21,552
+System AI dostaje dostęp do jakichś zdalnych urządzeń, ma odpowiednie uprawnienia i żeby się zabezpieczyć zaczyna się
+
+98
+00:12:21,552 --> 00:12:26,564
+rozprzestrzeniać, tak jak wirus komputerowy.
+
+99
+00:12:26,564 --> 00:12:35,879
+systemy AI mogłyby tworzyć całe publikacje i rozsiewać się po całym świecie po różnych komputerach, a to potencjalnie mogłoby zagrozić człowiekowi.
+
+100
+00:12:35,879 --> 00:12:44,350
+Co więcej, taki system, aby osiągnąć jakieś tam cele, będzie definiował pewne podcele, a jednym z takich podcelów
+
+101
+00:12:44,350 --> 00:12:50,932
+może być chęć uzyskania większej kontroli. A to wszystko może prowadzić do bardzo przykrych rezultatów,
+
+102
+00:12:50,932 --> 00:12:59,791
+przed którymi ostrzegał Stephen Hawking w 2017 roku. Twierdząc, że takie systemy samo replikujące się
+
+103
+00:12:59,791 --> 00:13:09,005
+i samo doskonalące się mogło zagrozić człowiekowi go przewyższyć. Niestety widzimy, że pierwszy krok w tym kierunku został zrobiony.
+
+104
+00:13:09,005 --> 00:13:13,055
+Dzięki za dziś i niech moc sztucznej inteligencji będzie z wami wszystkimi.
+
+105
+00:13:16,177 --> 00:13:24,614
+Podczas gdy różne firmy technologiczne prześcigają się w wymyślaniu coraz bardziej wyrafinowanych okularów rozszerzonej rzeczywistości, które
+
+106
+00:13:24,614 --> 00:13:32,883
+można by było wprost wyjąć z jakiegoś filmu science fiction, bo tak fikuśnie wyglądają, to firma Even Realities poszła w zupełnie innym kierunku.
+
+107
+00:13:32,883 --> 00:13:37,895
+zrobiła bowiem okulary nazwane G1, które
+
+108
+00:13:37,895 --> 00:13:45,961
+Z pozoru wyglądają jak zwykłe okulary, bo te oprawki naprawdę są zwykłe, tylko kryją w sobie bardzo wyrofinowaną technologię.
+
+109
+00:13:45,961 --> 00:13:53,403
+To właśnie o tych okularach, które robią furorę w sieci i je zrobią z każdego Bonda, Jamesa Bonda.
+
+110
+00:13:53,403 --> 00:14:01,807
+Powiem w dzisiejszym odcinku. Zapraszam.
+
+111
+00:14:01,807 --> 00:14:11,054
+Okulary G1 tej firmy wykorzystują takie specjalne matryce MicroLED, które mają rozdzielczość 640x200.
+
+112
+00:14:11,054 --> 00:14:17,838
+pikseli i obraz z tej matrycy jest rzutowany na specjalne takie pole na soczewce okularów.
+
+113
+00:14:17,838 --> 00:14:24,807
+System optyczny sprawia, że wydaje nam się, że ten obraz jest dwa metry przed nami, więc tutaj nie mamy żadnego problemu.
+
+114
+00:14:24,807 --> 00:14:29,819
+z patrzeniem na przykładowo tekst i nie musimy ze zarobić. Okulary ważą
+
+115
+00:14:29,819 --> 00:14:38,948
+tylko 44 gramy, czyli praktycznie jak zwykłe okulary. Wyglądają jak zwykłe okulary, są komfortowe, a nie nosimy na nosie jakiś monstrum.
+
+116
+00:14:38,948 --> 00:14:46,103
+i są w stanie działać przez cały dzień. Specifia chcę podaje, że do 36 godzin pracy mamy na jednym ładowaniu.
+
+117
+00:14:46,103 --> 00:14:51,554
+Okulary dzięki wyświetlaczowi, który ma barwę zieloną, co teraz widzi się na ekranie.
+
+118
+00:14:51,554 --> 00:14:58,321
+mogą wyświetlać powiadomienia, różne notatki lub odtwarzać notatki głosowe lub przypomnienia.
+
+119
+00:14:58,321 --> 00:15:06,961
+A sterowanie? No, pochylasz głowę do góry i nagle ci się to wszystko pojawia przed oczami. Albo dotykasz specjalnego wzełuszniku pola dotykowego.
+
+120
+00:15:06,961 --> 00:15:12,462
+Okulary można połączyć z telefonem, a na tym telefonie może co? Działać czat w GPT.
+
+121
+00:15:12,462 --> 00:15:19,347
+który jest naszym takim codziennym asystentem, podpowiada nam w różnych sprawach, pomaga. No, wyobraźmy sobie zupełnie,
+
+122
+00:15:19,347 --> 00:15:25,456
+hipotetyczną sytuację. Idziecie sobie na egzamin i oczywiście jesteście w pełni przygotowani.
+
+123
+00:15:25,456 --> 00:15:32,223
+ale chcecie przetestować tego czata, czy wam pomoże, no więc uruchamiacie i macie w tych okularach wyświetlone odpowiedzi.
+
+124
+00:15:32,223 --> 00:15:39,918
+Dzięki temu wyglądacie na mądrych, bo wy widzicie te odpowiedzi, bo czad to generuje, a nikt inny tego nie dostrzega, bo to w waszych okularach się wyświetla.
+
+125
+00:15:39,918 --> 00:15:45,217
+Według mnie największym hitem jest promter, bo te okulary mają taką funkcję połączoną z chatem GPT.
+
+126
+00:15:45,217 --> 00:15:51,747
+że sobie ładujecie tekst, na przykład w waszej prezentacji, prowadzicie jakąś prezentację, nie wiem, firmową przykładowo, wgrywacie tekst,
+
+127
+00:15:51,747 --> 00:16:01,687
+i on na bieżąco wam się wyświetla w tych okularach i czad sprawdza co powiedzieliście, a czego jeszcze nie powiedzieliście i wam wyświetla co macie w danej chwili mówić. No i wypadacie znowu.
+
+128
+00:16:01,687 --> 00:16:10,411
+Funkcja transkrypcji zamienia mowę na tekst w czasie rzeczywistym, a funkcja tłumaczenia pozwala wam rozmawiać przy pomocy tych okularów.
+
+129
+00:16:10,411 --> 00:16:15,811
+w 24 językach. Ciekawą opcją jest też nawigacja i dzieci albo
+
+130
+00:16:15,811 --> 00:16:24,451
+jedziecie sobie rowerem i wam się pokazują strzałki dokładnie metry wyliczone gdzie trzeba skręcić w jakim momencie no świetne rozwiązanie
+
+131
+00:16:24,451 --> 00:16:30,779
+Dobra, a teraz najważniejsze informacje, czyli cena. No i co? Specyfikacje znalazłem, no i co tam jest napisane?
+
+132
+00:16:30,779 --> 00:16:35,791
+Podstawowy model kosztuje 599 dolarów.
+
+133
+00:16:35,791 --> 00:16:40,955
+Możemy sobie dobrać szkła korekcyjne. To jest dodatkowe $150.
+
+134
+00:16:40,955 --> 00:16:47,030
+I nakładkę przeciwsłoneczną, chociaż to nie jest chyba konieczne, to jest koszt 100 dolarów.
+
+135
+00:16:47,030 --> 00:16:54,455
+Uważam, że to dość sporo, tym bardziej, że to jest urządzenie pierwszej generacji, a na waszym miejscu, jeżeli już napaliliście się na te okulary,
+
+136
+00:16:54,455 --> 00:16:59,467
+to bym poczekał z rok na przykład albo dwa, kiedy ta technologia będzie bardziej stabilna.
+
+137
+00:16:59,467 --> 00:17:07,448
+Podsumowując, G1 to nie rewolucja, ale po prostu ewolucja nosideł, czyli elektroniki, którą możemy nosić.
+
+138
+00:17:07,448 --> 00:17:14,958
+Ma fajne funkcje, to urządzenie. Myślę, że dużo praktycznych zastosowań może znaleźć, tylko ta cena uważam, że jest trochę za wysoka.
+
+139
+00:17:14,958 --> 00:17:20,813
+Z tego co widziałem w internecie, a dużo filmików się pojawiło, to te podstawowe funkcje działają całkiem sprawnie.
+
+140
+00:17:20,813 --> 00:17:30,483
+Więc jeżeli jesteście zainteresowani byciem agentem specjalnym Bondem, to być może to jest właśnie rozwiązanie dla Was.
+
+141
+00:17:30,483 --> 00:17:35,495
+A ja wam bardzo dziękuję za dziś i niech moc innowacji będzie z wami wszystkimi.
+
+142
+00:17:35,495 --> 00:17:43,932
+Witaminy Omega 3 i a szwaganda marki Allnutrition dostępne w sklepie SFD i wybranych aptekach z kodem 0 zgarnij 10% rabatu w SFD.
+
+143
+00:17:44,067 --> 00:17:54,057
+Partnerem kanału jest xtb, aplikacja inwestycyjna, z którą zaangażujesz do pracy Twoje pieniądze. Teraz otwierając konto z kodem zero otrzymasz kurs inwestowania od podstaw.
+
+144
+00:17:54,057 --> 00:17:54,209
+Cześć!
+
